@@ -1,0 +1,44 @@
+{
+  "name": "Firewall Follies",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "What network security device acts like a nightclub bouncer, deciding who gets in and who gets turned away?",
+      "question": "What is a firewall?",
+      "available": true,
+      "value": 100,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "This type of firewall examines each packet individually, like a really thorough security guard checking everyone's ID at the door",
+      "question": "What is a packet-filtering firewall?",
+      "available": true,
+      "value": 200,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "Like a smart thermostat that learns your habits, this firewall type adapts to network patterns and user behavior",
+      "question": "What is a next-generation firewall?",
+      "available": true,
+      "value": 300,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "This firewall inspection method reads packet contents like opening someone's mail to check for suspicious items",
+      "question": "What is deep packet inspection?",
+      "available": true,
+      "value": 400,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "Like having security cameras everywhere, this firewall approach monitors and logs all network activity for later analysis",
+      "question": "What is Unified Threat Management?",
+      "available": true,
+      "value": 500,
+      "cat": "Firewall Follies"
+    }
+  ]
+}

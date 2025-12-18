@@ -22,8 +22,8 @@
 
 - 2-space indentation (formatted with Prettier)
 - Required fields: name, categories in round.json; name, questions in cat.json
-- Questions require: question, available (boolean), value (number), cat (string)
-- Optional question fields: answer (string), image (string path)
+- Questions require: answer (clue), available (boolean), value (number), cat (string)
+- Optional question fields: question (response), image (string path)
 - Lowercase round IDs with underscores, descriptive category names
 
 ### File Structure

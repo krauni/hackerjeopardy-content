@@ -1,0 +1,44 @@
+{
+  "name": "Web Weirdness",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "What does HTTPS stand for, and why is it like putting on armor before entering a dragon's cave?",
+      "question": "What is HyperText Transfer Protocol Secure?",
+      "available": true,
+      "value": 100,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "This web vulnerability allows attackers to inject malicious code into a website, like sneaking extra ingredients into someone's recipe",
+      "question": "What is Cross-Site Scripting?",
+      "available": true,
+      "value": 200,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "Like a website that trusts any stranger who knocks on its door, this vulnerability occurs when a site doesn't properly validate user input",
+      "question": "What is an injection attack vulnerability?",
+      "available": true,
+      "value": 300,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "This security header tells browsers to only load resources from trusted sources, like having a VIP list for your website's party",
+      "question": "What is Content Security Policy?",
+      "available": true,
+      "value": 400,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "Like a bank that lets you withdraw money by just asking nicely, this web vulnerability allows attackers to perform actions without proper authorization",
+      "question": "What is broken access control?",
+      "available": true,
+      "value": 500,
+      "cat": "Web Weirdness"
+    }
+  ]
+}

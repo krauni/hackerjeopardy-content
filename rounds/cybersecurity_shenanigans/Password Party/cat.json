@@ -1,0 +1,44 @@
+{
+  "name": "Password Party",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "What do you call a password that's really just a word from the dictionary, like 'password' or 'letmein'?",
+      "question": "What is a weak password?",
+      "available": true,
+      "value": 100,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "This password requirement means mixing uppercase, lowercase, numbers, and symbols, like throwing a wild party with all different guests",
+      "question": "What are complexity requirements?",
+      "available": true,
+      "value": 200,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "Like having a secret knock for your treehouse, this security method uses something you have plus something you know",
+      "question": "What is two-factor authentication?",
+      "available": true,
+      "value": 300,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "This password manager feature generates and stores complex passwords, acting like your personal party planner for security",
+      "question": "What is a password generator?",
+      "available": true,
+      "value": 400,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "Like a VIP list that changes every night, this password policy forces users to change their passwords regularly to prevent long-term party crashers",
+      "question": "What is a password expiration policy?",
+      "available": true,
+      "value": 500,
+      "cat": "Password Party"
+    }
+  ]
+}

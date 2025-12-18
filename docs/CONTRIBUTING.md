@@ -114,8 +114,8 @@ Each question object should have:
 
 ```json
 {
-  "question": "The question text that will be displayed as a clue",
-  "answer": "The correct answer text",
+  "answer": "The clue text displayed to contestants",
+  "question": "The correct contestant response (What is...?)",
   "available": true
 }
 ```

@@ -1,0 +1,44 @@
+{
+  "name": "Encryption Extravaganza",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "What process scrambles data so only authorized people can read it, like writing a secret message in invisible ink?",
+      "question": "What is encryption?",
+      "available": true,
+      "value": 100,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "This encryption method uses the same secret key for both encrypting and decrypting, like having one key that opens both your front door and your diary",
+      "question": "What is symmetric encryption?",
+      "available": true,
+      "value": 200,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "Like having a public mailbox where anyone can drop letters but only you can open them, this encryption uses different keys for sending and receiving",
+      "question": "What is asymmetric encryption?",
+      "available": true,
+      "value": 300,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "This cryptographic function creates a unique fingerprint of data, like giving every file its own DNA sequence that can't be faked",
+      "question": "What is a hash function?",
+      "available": true,
+      "value": 400,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "Like a secret handshake that proves you're part of the club, this encryption technique ensures data hasn't been tampered with and comes from a trusted source",
+      "question": "What is a digital signature?",
+      "available": true,
+      "value": 500,
+      "cat": "Encryption Extravaganza"
+    }
+  ]
+}

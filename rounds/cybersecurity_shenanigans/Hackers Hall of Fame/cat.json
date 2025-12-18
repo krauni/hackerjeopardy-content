@@ -1,0 +1,44 @@
+{
+  "name": "Hackers Hall of Fame",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "What computer bug was discovered in 1947 when a moth got stuck in a relay, giving us the term 'debugging'?",
+      "question": "What was the first computer bug?",
+      "available": true,
+      "value": 100,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "This famous hacker, known as 'The Condor,' helped take down the KGB by selling encryption software to the Soviets that had a backdoor",
+      "question": "Who was Boris Hagelin?",
+      "available": true,
+      "value": 200,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "Like digital Robin Hoods, these hackers expose government surveillance and corporate wrongdoing through leaked documents",
+      "question": "Who are whistleblowers?",
+      "available": true,
+      "value": 300,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "This 1988 self-replicating program infected 6,000 computers and demanded money, like the first digital extortion letter",
+      "question": "What was the Morris Worm?",
+      "available": true,
+      "value": 400,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "Known as the 'Father of Computer Security,' this mathematician helped break the German Enigma code during World War II",
+      "question": "Who was Alan Turing?",
+      "available": true,
+      "value": 500,
+      "cat": "Hackers Hall of Fame"
+    }
+  ]
+}
