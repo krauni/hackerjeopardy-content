@@ -1,6 +1,6 @@
 # Hacker Jeopardy Content Repository
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://yourusername.github.io/hackerjeopardy-content)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/krauni/hackerjeopardy-content)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A community-driven repository for Hacker Jeopardy question sets. This repository contains all the game content that can be dynamically loaded into the Hacker Jeopardy application.
@@ -8,12 +8,14 @@ A community-driven repository for Hacker Jeopardy question sets. This repository
 ## 🚀 Quick Start
 
 ### For Players
-1. Open [Hacker Jeopardy](https://your-app-url.com)
+
+1. Open [Hacker Jeopardy](http://127.0.0.1:4200)
 2. Click the "⚙️ Content Manager" button in the top-right
 3. Check for updates and download new question sets
 4. Enjoy offline gameplay with cached content!
 
 ### For Contributors
+
 1. [Read the contribution guide](docs/CONTRIBUTING.md)
 2. Fork this repository
 3. Add your question set following the format
@@ -38,18 +40,19 @@ hackerjeopardy-content/
 
 ## 🎮 Available Rounds
 
-| Round Name | Categories | Difficulty | Author |
-|------------|------------|------------|---------|
-| Demo Round | Programming, Security, Fun | Easy | Hacker Jeopardy Team |
-| Advanced Cybersecurity | Cryptography, Network Security, Malware | Hard | Security Experts |
+| Round Name             | Categories                              | Difficulty | Author               |
+| ---------------------- | --------------------------------------- | ---------- | -------------------- |
+| Demo Round             | Programming, Security, Fun              | Easy       | Hacker Jeopardy Team |
+| Advanced Cybersecurity | Cryptography, Network Security, Malware | Hard       | Security Experts     |
 
-*More rounds available - check the [manifest.json](manifest.json) for the complete list.*
+_More rounds available - check the [manifest.json](manifest.json) for the complete list._
 
 ## 🤝 Contributing
 
 We welcome contributions from the community! Whether you're a cybersecurity expert, programmer, or just passionate about technology, you can help create engaging question sets.
 
 ### Ways to Contribute
+
 - **Create new rounds** on technology topics
 - **Improve existing questions** for clarity and accuracy
 - **Add images** to enhance visual questions
@@ -57,6 +60,7 @@ We welcome contributions from the community! Whether you're a cybersecurity expe
 - **Review submissions** from other contributors
 
 ### Getting Started
+
 1. Read our [Contributing Guide](docs/CONTRIBUTING.md)
 2. Check existing rounds for examples
 3. Use the validation tools
@@ -65,10 +69,16 @@ We welcome contributions from the community! Whether you're a cybersecurity expe
 ## 🛠️ Development
 
 ### Prerequisites
+
 - Node.js 18+
 - npm or yarn
 
+### Agent Instructions
+
+- [AGENTS.md](AGENTS.md) - Instructions for AI coding assistants working in this repository
+
 ### Validation
+
 ```bash
 # Install dependencies
 npm install
@@ -81,6 +91,7 @@ npm run validate-all
 ```
 
 ### Content Guidelines
+
 - Questions should be educational and engaging
 - Maintain consistent difficulty levels
 - Include both technical and fun questions
@@ -97,6 +108,7 @@ npm run validate-all
 ## 🔄 Updates
 
 Content updates are managed through the Hacker Jeopardy application:
+
 - Users can check for updates manually
 - New content is downloaded and cached automatically
 - Offline play works with cached content
@@ -114,8 +126,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/hackerjeopardy-content/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/hackerjeopardy-content/discussions)
+- **Issues**: [GitHub Issues](https://github.com/krauni/hackerjeopardy-content/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/krauni/hackerjeopardy-content/discussions)
 - **Documentation**: [Contributing Guide](docs/CONTRIBUTING.md)
 
 ---
