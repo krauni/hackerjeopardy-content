@@ -1,0 +1,47 @@
+{
+  "name": "Fun",
+  "path": "Fun",
+  "lang": "en",
+  "difficulty": "easy",
+  "author": "Hacker Jeopardy Team",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "email": "team@hackerjeopardy.com",
+  "questions": [
+    {
+      "question": "What does '404' commonly mean in internet culture?",
+      "answer": "Page not found",
+      "available": true,
+      "value": 100,
+      "cat": "Fun"
+    },
+    {
+      "question": "What is the name of the first computer 'bug' that was found in 1947?",
+      "answer": "A real bug (moth) was found in the computer",
+      "available": true,
+      "value": 200,
+      "cat": "Fun"
+    },
+    {
+      "question": "What does 'LOL' stand for?",
+      "answer": "Laugh Out Loud",
+      "available": true,
+      "value": 300,
+      "cat": "Fun"
+    },
+    {
+      "question": "What internet meme features a cat with a rainbow background?",
+      "answer": "Nyan Cat",
+      "available": true,
+      "value": 400,
+      "cat": "Fun"
+    },
+    {
+      "question": "What does 'www' stand for in web addresses?",
+      "answer": "World Wide Web",
+      "available": true,
+      "value": 500,
+      "cat": "Fun"
+    }
+  ]
+}

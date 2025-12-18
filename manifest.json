@@ -1,0 +1,33 @@
+{
+  "name": "Hacker Jeopardy Content Repository",
+  "description": "Community-contributed question sets for Hacker Jeopardy",
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-18T21:12:12.114Z",
+  "totalRounds": 1,
+  "totalSize": 7901,
+  "rounds": [
+    {
+      "id": "demo_round",
+      "name": "Demo Round",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "Programming",
+        "Security",
+        "Fun"
+      ],
+      "author": "Hacker Jeopardy Team",
+      "lastModified": "2025-12-18",
+      "size": 7901,
+      "description": "A demonstration round showing the content structure",
+      "tags": []
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Hacker Jeopardy Community",
+      "github": "https://github.com/yourusername"
+    }
+  ],
+  "license": "MIT"
+}

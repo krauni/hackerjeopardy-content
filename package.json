@@ -1,0 +1,44 @@
+{
+  "name": "hackerjeopardy-content",
+  "version": "1.0.0",
+  "description": "Community-driven content repository for Hacker Jeopardy",
+  "main": "manifest.json",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "validate-all": "node scripts/validate.js --all",
+    "build-manifest": "node scripts/build-manifest.js",
+    "test": "npm run validate-all",
+    "format": "prettier --write \"rounds/**/*.json\" manifest.json",
+    "lint": "npm run validate-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/hackerjeopardy-content.git"
+  },
+  "keywords": [
+    "jeopardy",
+    "quiz",
+    "hacking",
+    "cybersecurity",
+    "programming",
+    "education",
+    "game"
+  ],
+  "author": "Hacker Jeopardy Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/hackerjeopardy-content/issues"
+  },
+  "homepage": "https://yourusername.github.io/hackerjeopardy-content",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "rounds/",
+    "assets/",
+    "manifest.json"
+  ]
+}
