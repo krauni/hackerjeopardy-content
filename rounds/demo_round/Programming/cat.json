@@ -1,0 +1,47 @@
+{
+  "name": "Programming",
+  "path": "Programming",
+  "lang": "en",
+  "difficulty": "easy",
+  "author": "Hacker Jeopardy Team",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "email": "team@hackerjeopardy.com",
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language",
+      "available": true,
+      "value": 100,
+      "cat": "Programming"
+    },
+    {
+      "question": "Which programming language is known for its use in web development and has a mascot named Guido?",
+      "answer": "Python",
+      "available": true,
+      "value": 200,
+      "cat": "Programming"
+    },
+    {
+      "question": "What does CSS control in web development?",
+      "answer": "Cascading Style Sheets - controls presentation and layout",
+      "available": true,
+      "value": 300,
+      "cat": "Programming"
+    },
+    {
+      "question": "Which data structure follows Last In, First Out (LIFO) principle?",
+      "answer": "Stack",
+      "available": true,
+      "value": 400,
+      "cat": "Programming"
+    },
+    {
+      "question": "What is the purpose of version control systems like Git?",
+      "answer": "To track changes in source code and collaborate on projects",
+      "available": true,
+      "value": 500,
+      "cat": "Programming"
+    }
+  ]
+}

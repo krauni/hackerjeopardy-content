@@ -1,0 +1,47 @@
+{
+  "name": "Security",
+  "path": "Security",
+  "lang": "en",
+  "difficulty": "easy",
+  "author": "Hacker Jeopardy Team",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "email": "team@hackerjeopardy.com",
+  "questions": [
+    {
+      "question": "What does HTTPS stand for and why is it important?",
+      "answer": "HyperText Transfer Protocol Secure - encrypts data in transit",
+      "available": true,
+      "value": 100,
+      "cat": "Security"
+    },
+    {
+      "question": "What is a common method hackers use to trick users into revealing sensitive information?",
+      "answer": "Phishing",
+      "available": true,
+      "value": 200,
+      "cat": "Security"
+    },
+    {
+      "question": "What type of attack involves overwhelming a server with traffic to make it unavailable?",
+      "answer": "DDoS (Distributed Denial of Service)",
+      "available": true,
+      "value": 300,
+      "cat": "Security"
+    },
+    {
+      "question": "What is the name for a secret code used to encrypt and decrypt data?",
+      "answer": "Encryption key",
+      "available": true,
+      "value": 400,
+      "cat": "Security"
+    },
+    {
+      "question": "What security principle means users should have the minimum privileges needed to perform their job?",
+      "answer": "Principle of Least Privilege",
+      "available": true,
+      "value": 500,
+      "cat": "Security"
+    }
+  ]
+}
