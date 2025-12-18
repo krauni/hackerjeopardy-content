@@ -36,6 +36,36 @@
 ### Naming Conventions
 
 - Round IDs: lowercase, underscores (e.g., `cybersecurity_basics`)
-- Category names: Title Case (e.g., "Network Security")
-- Consistent with existing patterns in codebase</content>
+- Category names: Fun theme names (e.g., "Firewall Follies" instead of "Network Security")
+- Consistent with existing patterns in codebase
+
+### Content Creation Guidelines
+
+#### Jeopardy Game Format
+
+- Clues displayed to contestants, answers provided by players
+- Point values (100, 200, 300, 400, 500) scale difficulty within categories
+- 6 categories per round, 5 questions per category
+- Flexible answer formats: text, images, or combinations
+
+#### Fun-First Content Philosophy
+
+- Questions should be engaging and entertaining
+- Use puns, wordplay, pop culture references, and humor
+- Maintain educational value while being accessible
+- Include images in ~40% of questions for visual engagement
+
+#### Difficulty Scaling
+
+- 100pts: Basic/common knowledge
+- 200pts: Standard intermediate concepts
+- 300pts: Practical applications
+- 400pts: Specialized knowledge
+- 500pts: Expert-level principles
+
+#### Category Naming
+
+- Use fun, thematic names instead of standard technical terms
+- Examples: "Firewall Follies", "Code Catastrophes", "Phishing Fiasco"
+- Employ alliteration and memorable themes</content>
   <parameter name="filePath">/home/user/dev/hackerjeopardy-content/AGENTS.md
