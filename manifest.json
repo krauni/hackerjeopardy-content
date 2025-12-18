@@ -2,23 +2,38 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-18T21:12:12.114Z",
-  "totalRounds": 1,
-  "totalSize": 7901,
+  "lastUpdated": "2025-12-18T22:28:12.783Z",
+  "totalRounds": 2,
+  "totalSize": 27205,
   "rounds": [
+    {
+      "id": "cybersecurity_shenanigans",
+      "name": "Cybersecurity Shenanigans",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "Firewall Follies",
+        "Password Party",
+        "Phishing Fiasco",
+        "Encryption Extravaganza",
+        "Web Weirdness",
+        "Hackers Hall of Fame"
+      ],
+      "author": "Hacker Jeopardy Community",
+      "lastModified": "2025-12-18",
+      "size": 19297,
+      "description": "A hilarious journey through cybersecurity basics with puns and practical tips",
+      "tags": []
+    },
     {
       "id": "demo_round",
       "name": "Demo Round",
       "language": "en",
       "difficulty": "mixed",
-      "categories": [
-        "Programming",
-        "Security",
-        "Fun"
-      ],
+      "categories": ["Programming", "Security", "Fun"],
       "author": "Hacker Jeopardy Team",
       "lastModified": "2025-12-18",
-      "size": 7901,
+      "size": 7908,
       "description": "A demonstration round showing the content structure",
       "tags": []
     }

@@ -3,6 +3,7 @@
 Welcome! We're excited that you want to contribute question sets to Hacker Jeopardy. This guide will help you create and submit new rounds.
 
 ## Table of Contents
+
 - [Quick Start](#quick-start)
 - [Round Structure](#round-structure)
 - [Category Format](#category-format)
@@ -36,6 +37,7 @@ rounds/
 ```
 
 ### Round ID Naming Convention
+
 - Use lowercase letters, numbers, and underscores only
 - Be descriptive but concise: `cybersecurity_basics`, `programming_fundamentals`
 - Avoid special characters or spaces
@@ -54,10 +56,12 @@ rounds/
 ```
 
 **Required fields:**
+
 - `name`: Display name for the round
 - `categories`: Array of category names (must match directory names)
 
 **Optional fields:**
+
 - `comment`: Additional description
 - `author`: Your name
 - `version`: Version number
@@ -91,10 +95,12 @@ rounds/
 ```
 
 **Required fields:**
+
 - `name`: Category display name
 - `questions`: Array of question objects
 
 **Optional fields:**
+
 - `path`: Directory path for images (usually same as name)
 - `lang`: Language code (en, de, fr, etc.)
 - `difficulty`: easy, medium, hard, or mixed
@@ -103,11 +109,13 @@ rounds/
 ## Question Guidelines
 
 ### Question Structure
+
 Each question object should have:
+
 ```json
 {
-  "question": "The question text that will be displayed as a clue",
-  "answer": "The correct answer text",
+  "answer": "The clue text displayed to contestants",
+  "question": "The correct contestant response (What is...?)",
   "available": true
 }
 ```
@@ -115,17 +123,20 @@ Each question object should have:
 ### Content Guidelines
 
 **Question Quality:**
+
 - Questions should be clear and unambiguous
 - Use proper grammar and spelling
 - Avoid overly complex or obscure topics
 - Ensure questions are educational and interesting
 
 **Answer Quality:**
+
 - Answers should be concise but complete
 - Include brief explanations when helpful
 - Use consistent formatting
 
 **Difficulty Balance:**
+
 - Easy: Basic concepts, common knowledge
 - Medium: Intermediate understanding required
 - Hard: Advanced or specialized knowledge
@@ -133,6 +144,7 @@ Each question object should have:
 ### Categories
 
 **Popular Category Themes:**
+
 - Programming languages and frameworks
 - Cybersecurity concepts and tools
 - Operating systems and commands
@@ -140,6 +152,117 @@ Each question object should have:
 - Famous hackers and events
 - Internet culture and memes
 - Science and technology history
+
+## Content Creation Guidelines
+
+### Game Mechanics
+
+Hacker Jeopardy follows standard Jeopardy rules:
+
+- **Clues**: Questions displayed to contestants (e.g., "What does HTTPS stand for?")
+- **Answers**: Contestant responses (e.g., "HyperText Transfer Protocol Secure")
+- **Categories**: 6 thematic groupings per round
+- **Point Values**: 100, 200, 300, 400, 500 (difficulty scaling)
+- **Answer Formats**: Flexible - text, images, or combinations
+
+### Fun-First Approach
+
+Questions should be engaging and entertaining while maintaining educational value:
+
+- Use puns, wordplay, and pop culture references
+- Include humor and clever analogies
+- Make technical concepts accessible and memorable
+- Balance entertainment with learning
+
+### Visual Integration
+
+- **40% of questions** should include relevant images
+- Images enhance clues or provide answer context
+- Support diagrams, memes, screenshots, and educational graphics
+- Store images in category directories alongside `cat.json`
+
+### Difficulty Scaling
+
+Progressive difficulty based on point values:
+
+- **100 points**: Common knowledge, basic concepts
+- **200 points**: Standard practices, intermediate terms
+- **300 points**: Practical applications, common techniques
+- **400 points**: Specialized knowledge, specific technologies
+- **500 points**: Expert principles, advanced concepts
+
+### Category Naming Conventions
+
+Replace standard technical names with engaging, thematic alternatives:
+
+**Examples:**
+
+- Network Security → "Firewall Follies"
+- Cryptography → "Encryption Extravaganza"
+- Web Security → "Web Weirdness"
+- System Security → "Access Control Circus"
+- Social Engineering → "Phishing Fiasco"
+- Programming → "Code Catastrophes"
+- Databases → "Data Disco"
+- APIs → "API Adventure"
+
+**Guidelines:**
+
+- Keep names memorable and thematic
+- Use alliteration when possible
+- Ensure names reflect the category's fun personality
+- Maintain clarity about technical content
+
+### Development Workflow
+
+1. **Planning Phase**
+   - Define round theme and target audience
+   - Brainstorm 6 fun category names
+   - Outline question difficulty progression
+   - Plan image content integration
+
+2. **Content Creation**
+   - Write clues with engaging language
+   - Ensure progressive difficulty scaling
+   - Add relevant images where helpful
+   - Test question clarity and fun factor
+
+3. **Quality Assurance**
+   - Run `npm run validate` for JSON compliance
+   - Verify difficulty scaling within categories
+   - Check educational value and entertainment balance
+   - Update manifest with `npm run build-manifest`
+
+4. **Review & Iteration**
+   - Test gameplay experience
+   - Gather community feedback
+   - Refine based on player engagement
+   - Maintain consistent quality standards
+
+### Quality Standards
+
+**Question Criteria:**
+
+- Engaging and fun language
+- Clear educational value
+- Appropriate difficulty for point value
+- Technically accurate information
+- Accessible to target audience
+
+**Image Guidelines:**
+
+- Relevant to clue or answer
+- High quality and clear
+- Optimized file size (<500KB)
+- Proper licensing or original creation
+- Accessible descriptions
+
+**Category Balance:**
+
+- 6 categories per round
+- 5 questions per category (100-500 points)
+- Mix of text and image-based content
+- Progressive difficulty scaling
 
 ## Validation
 
@@ -154,6 +277,7 @@ npm run validate rounds/your_round_id
 ```
 
 The validation will check:
+
 - ✅ JSON syntax correctness
 - ✅ Required fields presence
 - ✅ Question/answer format compliance
@@ -176,18 +300,21 @@ The validation will check:
 ## Best Practices
 
 ### Content Quality
+
 - **Test your questions**: Try answering them yourself
 - **Balance difficulty**: Mix easy, medium, and hard questions
 - **Be inclusive**: Avoid culturally specific references
 - **Keep it fun**: Include some lighter questions among technical ones
 
 ### Technical Best Practices
+
 - **Use consistent formatting**: Follow the examples provided
 - **Validate before submitting**: Use the validation tools
 - **Keep file sizes reasonable**: Optimize images if included
 - **Use descriptive names**: Clear round and category names
 
 ### Community Guidelines
+
 - **Be respectful**: Content should be appropriate for all ages
 - **Give credit**: Acknowledge sources if using existing questions
 - **Be collaborative**: Help review other contributors' submissions

@@ -1,0 +1,44 @@
+{
+  "name": "Phishing Fiasco",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "What type of cyber attack involves tricking people into clicking malicious links, like a fisherman using bait to catch fish?",
+      "question": "What is phishing?",
+      "available": true,
+      "value": 100,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "This phishing technique targets high-level executives with personalized attacks, like a con artist researching their mark before the big scam",
+      "question": "What is whaling?",
+      "available": true,
+      "value": 200,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "Like a fake store that looks real but steals your credit card, this phishing method creates fraudulent websites that mimic legitimate ones",
+      "question": "What is pharming?",
+      "available": true,
+      "value": 300,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "This social engineering technique involves calling someone pretending to be tech support, like a wolf in sheep's clothing on the telephone",
+      "question": "What is vishing?",
+      "available": true,
+      "value": 400,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "Like sending a fake pizza delivery to get someone to open their door, this phishing variant uses text messages to deliver malicious links",
+      "question": "What is smishing?",
+      "available": true,
+      "value": 500,
+      "cat": "Phishing Fiasco"
+    }
+  ]
+}
