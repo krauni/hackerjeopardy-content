@@ -19,6 +19,27 @@ cd hackerjeopardy-content
 npm install
 ```
 
+That's it! The CLI tool is ready to use directly from the repository.
+
+### Optional: Create an Alias
+
+For convenience, you can create an alias:
+
+```bash
+# Add to your ~/.bashrc or ~/.zshrc
+echo "alias hjc='node hackerjeopardy-creator/bin/creator.js'" >> ~/.bashrc
+source ~/.bashrc
+
+# Then use the shorter command
+hjc create-round --template cybersecurity_basics
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
 3. Link the CLI tool:
 
 ```bash
@@ -31,45 +52,45 @@ npm link
 
 ```bash
 # Interactive round creation
-hackerjeopardy-creator create-round
+node bin/creator.js create-round
 
 # Use a template
-hackerjeopardy-creator create-round --template cybersecurity_basics
+node bin/creator.js create-round --template cybersecurity_basics
 ```
 
 ### Edit Existing Round
 
 ```bash
-hackerjeopardy-creator edit-round <round-id>
+node bin/creator.js edit-round <round-id>
 ```
 
 ### Add Questions to Category
 
 ```bash
 # Add 5 questions (default)
-hackerjeopardy-creator add-questions my-round "Code Catastrophes"
+node bin/creator.js add-questions my-round "Code Catastrophes"
 
 # Add specific number of questions
-hackerjeopardy-creator add-questions my-round "Code Catastrophes" --count 3
+node bin/creator.js add-questions my-round "Code Catastrophes" --count 3
 ```
 
 ### Validate Round
 
 ```bash
-hackerjeopardy-creator validate my-round
+node bin/creator.js validate my-round
 ```
 
 ### Generate AI-Powered Suggestions
 
 ```bash
 # Generate question suggestions (requires local LLM)
-hackerjeopardy-creator suggest-questions --category "Firewall Follies" --difficulty 200 --number 3
+node bin/creator.js suggest-questions --category "Firewall Follies" --difficulty 200 --number 3
 ```
 
 ### List Available Rounds
 
 ```bash
-hackerjeopardy-creator list
+node bin/creator.js list
 ```
 
 ## Available Templates

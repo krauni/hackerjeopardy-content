@@ -86,11 +86,11 @@ A powerful command-line tool for creating Jeopardy content:
 # Install dependencies
 npm install
 
-# Link the CLI tool
-npm link
+# Use the CLI tool directly (no global linking needed)
+node hackerjeopardy-creator/bin/creator.js create-round --template cybersecurity_basics
 
-# Create a new round
-hackerjeopardy-creator create-round --template cybersecurity_basics
+# Or create an alias for convenience
+alias hjc='node hackerjeopardy-creator/bin/creator.js'
 
 # Add questions to a category
 hackerjeopardy-creator add-questions cybersecurity_basics "Firewall Follies"
