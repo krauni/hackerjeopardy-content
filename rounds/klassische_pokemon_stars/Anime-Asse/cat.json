@@ -6,7 +6,7 @@
   "date": "2025-12-20",
   "questions": [
     {
-      "answer": "Dieses Pokemon begleitet Ash in der Anime-Serie und ist gelb mit roten Backen",
+      "answer": "",
       "question": "Was ist Pikachu?",
       "image": "pikachu-100.jpg",
       "available": true,
@@ -14,7 +14,7 @@
       "cat": "Anime-Asse"
     },
     {
-      "answer": "Dieses Pokemon ist Ashs Starter und entwickelt sich zu einem riesigen Drachen",
+      "answer": "",
       "question": "Was ist Glurak?",
       "image": "glurak-200.jpg",
       "available": true,
@@ -29,7 +29,7 @@
       "cat": "Anime-Asse"
     },
     {
-      "answer": "Dieses Pokemon ist ein genetisches Experiment und Ashs stärkster Gegner",
+      "answer": "",
       "question": "Was ist Mewtu?",
       "image": "mewtu-400.jpg",
       "available": true,

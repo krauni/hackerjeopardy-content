@@ -6,7 +6,7 @@
   "date": "2025-12-20",
   "questions": [
     {
-      "answer": "Dieses gras-typige Starter-Pokemon sieht aus wie eine Mischung aus Pflanze und Dinosaurier und ist das Maskottchen von Professor Eich",
+      "answer": "",
       "question": "Was ist Bisasam?",
       "image": "bisasam-100.jpg",
       "available": true,
@@ -14,7 +14,7 @@
       "cat": "Starter-Sternchen"
     },
     {
-      "answer": "Dieses feuer-typige Starter-Pokemon hat einen Flammen-Schwanz und entwickelt sich zu einem riesigen Drachen",
+      "answer": "",
       "question": "Was ist Glumanda?",
       "image": "glumanda-200.jpg",
       "available": true,
@@ -22,7 +22,7 @@
       "cat": "Starter-Sternchen"
     },
     {
-      "answer": "Dieses wasser-typige Starter-Pokemon ist eine kleine Schildkröte und wird zu einem mächtigen Wassermonster",
+      "answer": "",
       "question": "Was ist Schiggy?",
       "image": "schiggy-300.jpg",
       "available": true,
@@ -37,7 +37,7 @@
       "cat": "Starter-Sternchen"
     },
     {
-      "answer": "Dieses Pokemon ist die finale Form eines Starter-Pokemon und sieht aus wie ein feuerspeiender Dinosaurier mit Flügeln",
+      "answer": "",
       "question": "Was ist Glurak?",
       "image": "glurak-500.jpg",
       "available": true,

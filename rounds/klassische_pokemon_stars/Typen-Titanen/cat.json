@@ -13,7 +13,7 @@
       "cat": "Typen-Titanen"
     },
     {
-      "answer": "Dieses Feuer-Pokemon sieht aus wie ein Salamander und spuckt Feuer",
+      "answer": "",
       "question": "Was ist Feurio?",
       "image": "feurio-200.jpg",
       "available": true,
@@ -35,7 +35,7 @@
       "cat": "Typen-Titanen"
     },
     {
-      "answer": "Dieses Drache-Pokemon ist ein legendäres Wesen und kann alle Typen annehmen",
+      "answer": "",
       "question": "Was ist Mew?",
       "image": "mew-500.jpg",
       "available": true,

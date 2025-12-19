@@ -20,7 +20,7 @@
       "cat": "Retro-Raritäten"
     },
     {
-      "answer": "Dieses Pokemon ist ein sprechendes Fossil und entwickelt sich zu Kabutops",
+      "answer": "",
       "question": "Was ist Kabuto?",
       "image": "kabuto-300.jpg",
       "available": true,
@@ -28,7 +28,7 @@
       "cat": "Retro-Raritäten"
     },
     {
-      "answer": "Dieses Pokemon ist ein legendäres Fossil und sieht aus wie ein versteinerter Vogel",
+      "answer": "",
       "question": "Was ist Aerodactyl?",
       "image": "aerodactyl-400.jpg",
       "available": true,
@@ -36,7 +36,7 @@
       "cat": "Retro-Raritäten"
     },
     {
-      "answer": "Dieses Pokemon ist ein mysteriöses Wesen und die Grundlage für Mewtu",
+      "answer": "",
       "question": "Was ist Mew?",
       "image": "mew-500.jpg",
       "available": true,

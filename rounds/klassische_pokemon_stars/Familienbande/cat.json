@@ -6,7 +6,7 @@
   "date": "2025-12-20",
   "questions": [
     {
-      "answer": "Dieses Baby-Pokemon entwickelt sich zu Pikachu und sieht aus wie eine kleine gelbe Maus",
+      "answer": "",
       "question": "Was ist Pichu?",
       "image": "pichu-100.jpg",
       "available": true,
@@ -14,7 +14,7 @@
       "cat": "Familienbande"
     },
     {
-      "answer": "Dieses Pokemon entwickelt sich zu Raichu und ist das berühmteste Elektro-Pokemon überhaupt",
+      "answer": "",
       "question": "Was ist Pikachu?",
       "image": "pikachu-200.jpg",
       "available": true,
@@ -29,7 +29,7 @@
       "cat": "Familienbande"
     },
     {
-      "answer": "Dieses Pokemon entwickelt sich aus Mauzi und ist eine elegante Katze",
+      "answer": "",
       "question": "Was ist Schnurrla?",
       "image": "schnurrla-400.jpg",
       "available": true,
@@ -37,7 +37,7 @@
       "cat": "Familienbande"
     },
     {
-      "answer": "Dieses Pokemon entwickelt sich aus Karpador und wird zu einem mächtigen Drachen",
+      "answer": "",
       "question": "Was ist Garados?",
       "image": "garados-500.jpg",
       "available": true,

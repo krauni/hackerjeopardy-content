@@ -6,7 +6,7 @@
   "date": "2025-12-20",
   "questions": [
     {
-      "answer": "Dieses legendäre Pokemon ist ein rosa Katz-Wesen und kann jede Attacke erlernen",
+      "answer": "",
       "question": "Was ist Mew?",
       "image": "mew-100.jpg",
       "available": true,
@@ -14,7 +14,7 @@
       "cat": "Legendäre Wesen"
     },
     {
-      "answer": "Dieses legendäre Pokemon ist eine genetisch erschaffene Kopie von Mew und hat psychische Kräfte",
+      "answer": "",
       "question": "Was ist Mewtu?",
       "image": "mewtu-200.jpg",
       "available": true,
@@ -36,7 +36,7 @@
       "cat": "Legendäre Wesen"
     },
     {
-      "answer": "Dieser legendäre Vogel-Pokemon repräsentiert den Blitz und kann ewigen Frühling bringen",
+      "answer": "",
       "question": "Was ist Zapdos?",
       "image": "zapdos-500.jpg",
       "available": true,
