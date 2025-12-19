@@ -6,7 +6,6 @@
   "date": "2025-12-20",
   "questions": [
     {
-      "answer": "",
       "question": "Was ist Bisasam?",
       "image": "bisasam-100.jpg",
       "available": true,
@@ -14,7 +13,6 @@
       "cat": "Starter-Sternchen"
     },
     {
-      "answer": "",
       "question": "Was ist Glumanda?",
       "image": "glumanda-200.jpg",
       "available": true,
@@ -22,7 +20,6 @@
       "cat": "Starter-Sternchen"
     },
     {
-      "answer": "",
       "question": "Was ist Schiggy?",
       "image": "schiggy-300.jpg",
       "available": true,
@@ -37,7 +34,6 @@
       "cat": "Starter-Sternchen"
     },
     {
-      "answer": "",
       "question": "Was ist Glurak?",
       "image": "glurak-500.jpg",
       "available": true,

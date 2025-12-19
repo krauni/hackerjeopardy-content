@@ -2,9 +2,9 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T16:27:41.592Z",
+  "lastUpdated": "2025-12-19T16:31:01.394Z",
   "totalRounds": 6,
-  "totalSize": 508407,
+  "totalSize": 507647,
   "rounds": [
     {
       "id": "cybersecurity_basics",
@@ -71,7 +71,7 @@
       ],
       "author": "Hacker Jeopardy Community",
       "lastModified": "2025-12-19",
-      "size": 393002,
+      "size": 392242,
       "description": "Unterhaltsame Fragen zu klassischen Pokemon der ersten Generation für deutsche Fans",
       "tags": []
     },

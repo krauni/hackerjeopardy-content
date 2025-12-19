@@ -159,6 +159,8 @@ Each question object should have:
 }
 ```
 
+**Image-Only Questions:** When an image is provided, the `answer` field may be omitted, as the image serves as the visual clue. Questions must include either `answer`, `image`, or both.
+
 ### Content Guidelines
 
 **Question Quality:**
@@ -220,7 +222,6 @@ Questions should be engaging and entertaining while maintaining educational valu
 - Support diagrams, memes, screenshots, and educational graphics
 - **Images must be stored in category directories** (see Round Structure section above)
 - Image paths in cat.json use filename only (no directory prefixes)
-- **When an image is present, no textual hint should be in the answer field**; the image serves as the primary clue. For text-only questions, provide descriptive clues in the answer field.
 
 ### Difficulty Scaling
 
