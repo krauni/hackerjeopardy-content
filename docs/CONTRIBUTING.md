@@ -310,15 +310,15 @@ Replace standard technical names with engaging, thematic alternatives:
 
 **Structure:**
 
-- **Clue** (answer field): What contestants SEE on screen - should be descriptive and engaging
-- **Response** (question field): What contestants SAY - must follow "What is...?", "Who is...?", "What are...?" format
+- **Clue** (question field): What contestants SEE on screen - should be descriptive and engaging
+- **Response** (answer field): What contestants SAY - must follow "What is...?", "Who is...?", "What are...?" format
 
 **Example:**
 
 ```json
 {
-  "answer": "This cryptographic algorithm uses a 128-bit key and is widely considered unbreakable by classical computers",
-  "question": "What is AES?"
+  "question": "This cryptographic algorithm uses a 128-bit key and is widely considered unbreakable by classical computers",
+  "answer": "What is AES?"
 }
 ```
 
