@@ -29,12 +29,51 @@ rounds/
 └── your_round_id/
     ├── round.json          # Round metadata and category list
     ├── Category1/
-    │   └── cat.json       # Category questions
-    │   └── image1.jpg     # Optional images
+    │   ├── cat.json       # Category questions and metadata
+    │   ├── image1.jpg     # Images referenced in questions
+    │   └── image2.jpg     # Optional images
     ├── Category2/
-    │   └── cat.json
+    │   ├── cat.json
+    │   └── image3.jpg
     └── ...
 ```
+
+### Image Placement and Path Requirements
+
+**Critical**: Images must be placed in category subdirectories, not in the round root directory.
+
+**Image Path Format in cat.json:**
+
+- Use **filename only**: `"image": "filename.jpg"`
+- **Do NOT use** directory paths or prefixes
+- Images are resolved relative to their category directory
+
+**GitHub Pages URL Structure:**
+Images are loaded via URLs like:
+
+```
+https://username.github.io/hackerjeopardy-content/rounds/{round_id}/{category_name}/{image_filename}
+```
+
+**Examples:**
+
+```json
+{
+  "answer": "This programming language uses indentation for code blocks",
+  "question": "What is Python?",
+  "image": "python-logo.jpg",
+  "available": true,
+  "value": 200,
+  "cat": "Programming Languages"
+}
+```
+
+**File Organization Rules:**
+
+- Images must be in the same directory as their `cat.json` file
+- For images used in multiple categories, copy the file to each category directory
+- Image filenames should be descriptive and may include point values (e.g., `python-200.jpg`)
+- Category directory names must exactly match the `categories` array in `round.json`
 
 ### Round ID Naming Convention
 
@@ -179,7 +218,8 @@ Questions should be engaging and entertaining while maintaining educational valu
 - **40% of questions** should include relevant images
 - Images enhance clues or provide answer context
 - Support diagrams, memes, screenshots, and educational graphics
-- Store images in category directories alongside `cat.json`
+- **Images must be stored in category directories** (see Round Structure section above)
+- Image paths in cat.json use filename only (no directory prefixes)
 
 ### Difficulty Scaling
 
