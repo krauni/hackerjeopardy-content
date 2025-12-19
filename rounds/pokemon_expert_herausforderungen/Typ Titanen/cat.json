@@ -1,0 +1,45 @@
+{
+  "name": "Typ Titanen",
+  "difficulty": "expert",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses Elektro-Pokemon ist das berühmteste aller Pokemon und hat rote Wangen, die wie Blitzableiter wirken",
+      "question": "Was ist Pikachu?",
+      "available": true,
+      "value": 100,
+      "cat": "Typ Titanen"
+    },
+    {
+      "question": "Was ist Lucario?",
+      "image": "Lucario-silhouette-clean-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Typ Titanen"
+    },
+    {
+      "answer": "Dieses Pokemon entwickelt sich aus Shinx und leuchtet im Dunkeln, um seinen Schwarm anzulocken",
+      "question": "Was ist Shinx?",
+      "available": true,
+      "value": 300,
+      "cat": "Typ Titanen"
+    },
+    {
+      "question": "Was ist Vikavolt?",
+      "image": "Vikavolt-extreme-blur-saturation-300.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Typ Titanen"
+    },
+    {
+      "answer": "Dieses Pokemon aus der neunten Generation verkörpert sowohl Kampf- als auch Drachenkräfte und ist eines der legendären Paradox-Pokemon",
+      "question": "Was ist Koraidon?",
+      "available": true,
+      "value": 500,
+      "cat": "Typ Titanen"
+    }
+  ]
+}

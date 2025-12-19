@@ -1,0 +1,45 @@
+{
+  "name": "Starter Strategien",
+  "difficulty": "expert",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "question": "Was ist Bisasam?",
+      "image": "Bisasam-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Starter Strategien"
+    },
+    {
+      "answer": "Dieses Starter-Pokemon der ersten Generation entwickelt sich zu einem riesigen Schildkröten-Pokemon mit Wasserkanonen",
+      "question": "Was ist Schiggy?",
+      "available": true,
+      "value": 200,
+      "cat": "Starter Strategien"
+    },
+    {
+      "question": "Was ist Glumanda?",
+      "image": "Glumanda-extreme-blur-saturation-300.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Starter Strategien"
+    },
+    {
+      "answer": "Dieses Starter-Pokemon aus der sechsten Generation ist ein Igel mit Pflanzenkräften und entwickelt sich zu einem pflanzlichen Ritter",
+      "question": "Was ist Igamaro?",
+      "available": true,
+      "value": 400,
+      "cat": "Starter Strategien"
+    },
+    {
+      "answer": "Dieses Starter-Pokemon aus der neunten Generation sieht aus wie ein krokodilähnliches Wesen mit Feuerkräften",
+      "question": "Was ist Fuecoco?",
+      "available": true,
+      "value": 500,
+      "cat": "Starter Strategien"
+    }
+  ]
+}

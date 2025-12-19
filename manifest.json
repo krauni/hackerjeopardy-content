@@ -2,9 +2,9 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T18:52:27.627Z",
-  "totalRounds": 7,
-  "totalSize": 4957818,
+  "lastUpdated": "2025-12-19T19:01:05.137Z",
+  "totalRounds": 8,
+  "totalSize": 15646419,
   "rounds": [
     {
       "id": "cybersecurity_basics",
@@ -77,6 +77,25 @@
       "lastModified": "2025-12-19",
       "size": 392242,
       "description": "Unterhaltsame Fragen zu klassischen Pokemon der ersten Generation für deutsche Fans",
+      "tags": []
+    },
+    {
+      "id": "pokemon_expert_herausforderungen",
+      "name": "Pokemon Expert Herausforderungen",
+      "language": "de",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythische Rätsel",
+        "Starter Strategien",
+        "Legendäre Schatten",
+        "Mega Mysterien",
+        "Evolutionäre Extreme",
+        "Typ Titanen"
+      ],
+      "author": "Hacker Jeopardy Community",
+      "lastModified": "2025-12-19",
+      "size": 10688601,
+      "description": "Höchst anspruchsvolle visuelle und textuelle Herausforderungen für Pokemon-Experten mit komplexen Filtern",
       "tags": []
     },
     {

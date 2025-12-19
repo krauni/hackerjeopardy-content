@@ -1,0 +1,45 @@
+{
+  "name": "Mythische Rätsel",
+  "difficulty": "expert",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses psychische Pokemon kann jede Attacke erlernen und wurde als letztes Pokemon der ersten Generation entdeckt",
+      "question": "Was ist Mew?",
+      "available": true,
+      "value": 100,
+      "cat": "Mythische Rätsel"
+    },
+    {
+      "question": "Was ist Celebi?",
+      "image": "Celebi-silhouette-clean-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Mythische Rätsel"
+    },
+    {
+      "answer": "Dieses Pokemon symbolisiert den Sieg und kann nur durch Events in die Pokemon-Welt gelangen",
+      "question": "Was ist Victini?",
+      "available": true,
+      "value": 300,
+      "cat": "Mythische Rätsel"
+    },
+    {
+      "question": "Was ist Xerneas?",
+      "image": "Xerneas-implode-blur-sepia-500.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Mythische Rätsel"
+    },
+    {
+      "answer": "Dieses Pokemon kontrolliert das Leben und erscheint nur einmal alle 1000 Jahre in voller Pracht",
+      "question": "Was ist Xerneas?",
+      "available": true,
+      "value": 500,
+      "cat": "Mythische Rätsel"
+    }
+  ]
+}

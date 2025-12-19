@@ -1,0 +1,45 @@
+{
+  "name": "Evolutionäre Extreme",
+  "difficulty": "expert",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses Baby-Pokemon entwickelt sich zu Pikachu und hat eine höhere Wahrscheinlichkeit, Elektro-Attacken zu verursachen",
+      "question": "Was ist Pichu?",
+      "available": true,
+      "value": 100,
+      "cat": "Evolutionäre Extreme"
+    },
+    {
+      "question": "Was ist Raichu?",
+      "image": "Raichu-silhouette-clean-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Evolutionäre Extreme"
+    },
+    {
+      "answer": "Dieses faule Pokemon entwickelt sich zu Relaxo und dann zu Muntier durch hohe Freundschaft",
+      "question": "Was ist Bummelz?",
+      "available": true,
+      "value": 300,
+      "cat": "Evolutionäre Extreme"
+    },
+    {
+      "question": "Was ist Shinx?",
+      "image": "Shinx-implode-blur-sepia-500.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Evolutionäre Extreme"
+    },
+    {
+      "answer": "Dieses elegante Wasser-Pokemon entwickelt sich zu einem stolzen Kaiserpinguin mit perfekten Sprungattacken",
+      "question": "Was ist Plinfa?",
+      "available": true,
+      "value": 500,
+      "cat": "Evolutionäre Extreme"
+    }
+  ]
+}

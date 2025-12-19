@@ -1,0 +1,45 @@
+{
+  "name": "Mega Mysterien",
+  "difficulty": "expert",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "question": "Was ist Lucario?",
+      "image": "Lucario-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Mega Mysterien"
+    },
+    {
+      "answer": "Dieses Pokemon entwickelt sich aus Grillarv und kann in verschiedenen Formen auftreten, abhängig von seiner Persönlichkeit",
+      "question": "Was ist Vikavolt?",
+      "available": true,
+      "value": 200,
+      "cat": "Mega Mysterien"
+    },
+    {
+      "question": "Was ist Toxtricity?",
+      "image": "Toxtricity-charcoal-implode-blur-500.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Mega Mysterien"
+    },
+    {
+      "answer": "Dieses Pokemon aus Galar hungert ständig und kann zwischen zwei Formen wechseln, die seine Persönlichkeit widerspiegeln",
+      "question": "Was ist Morpeko?",
+      "available": true,
+      "value": 400,
+      "cat": "Mega Mysterien"
+    },
+    {
+      "question": "Was ist Koraidon?",
+      "image": "Koraidon-swirl-blur-modulate-500.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Mega Mysterien"
+    }
+  ]
+}

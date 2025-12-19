@@ -1,0 +1,45 @@
+{
+  "name": "Legendäre Schatten",
+  "difficulty": "expert",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses psychische Pokemon wurde durch Genmanipulation erschaffen und ist das Ergebnis gescheiterter Klone-Experimente",
+      "question": "Was ist Mewtu?",
+      "available": true,
+      "value": 100,
+      "cat": "Legendäre Schatten"
+    },
+    {
+      "question": "Was ist Dialga?",
+      "image": "Dialga-silhouette-clean-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Legendäre Schatten"
+    },
+    {
+      "answer": "Dieses Pokemon kontrolliert den Raum und steht im Konflikt mit seinem Zeit-kontrollierenden Gegenstück",
+      "question": "Was ist Palkia?",
+      "available": true,
+      "value": 300,
+      "cat": "Legendäre Schatten"
+    },
+    {
+      "question": "Was ist Giratina?",
+      "image": "Giratina-swirl-blur-modulate-500.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Legendäre Schatten"
+    },
+    {
+      "answer": "Dieses Pokemon ist der Schöpfer aller Pokemon und kann jede Typenkombination annehmen",
+      "question": "Was ist Arceus?",
+      "available": true,
+      "value": 500,
+      "cat": "Legendäre Schatten"
+    }
+  ]
+}
