@@ -2,10 +2,29 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-18T22:28:12.783Z",
-  "totalRounds": 2,
-  "totalSize": 27205,
+  "lastUpdated": "2025-12-19T11:33:04.264Z",
+  "totalRounds": 4,
+  "totalSize": 50355,
   "rounds": [
+    {
+      "id": "cybersecurity_basics",
+      "name": "Cybersecurity Basics",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "Firewall Follies",
+        "Password Party",
+        "Phishing Fiasco",
+        "Encryption Extravaganza",
+        "Web Weirdness",
+        "Hackers Hall of Fame"
+      ],
+      "author": "Nils",
+      "lastModified": "2025-12-19",
+      "size": 2298,
+      "description": "Introduction to fundamental cybersecurity concepts",
+      "tags": []
+    },
     {
       "id": "cybersecurity_shenanigans",
       "name": "Cybersecurity Shenanigans",
@@ -20,8 +39,8 @@
         "Hackers Hall of Fame"
       ],
       "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-18",
-      "size": 19297,
+      "lastModified": "2025-12-19",
+      "size": 19631,
       "description": "A hilarious journey through cybersecurity basics with puns and practical tips",
       "tags": []
     },
@@ -30,11 +49,34 @@
       "name": "Demo Round",
       "language": "en",
       "difficulty": "mixed",
-      "categories": ["Programming", "Security", "Fun"],
+      "categories": [
+        "Programming",
+        "Security",
+        "Fun"
+      ],
       "author": "Hacker Jeopardy Team",
-      "lastModified": "2025-12-18",
+      "lastModified": "2025-12-19",
       "size": 7908,
       "description": "A demonstration round showing the content structure",
+      "tags": []
+    },
+    {
+      "id": "what_if_scenarios",
+      "name": "What If? Tech Scenarios",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "Digital Doomsdays",
+        "Alternate Algorithms",
+        "Security Nightmares",
+        "Tech Time Warps",
+        "Code Cataclysms",
+        "Network Nightmares"
+      ],
+      "author": "Hacker Jeopardy Community",
+      "lastModified": "2025-12-19",
+      "size": 20518,
+      "description": "Exploring hypothetical technology scenarios and alternate digital realities",
       "tags": []
     }
   ],

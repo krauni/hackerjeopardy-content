@@ -1,0 +1,44 @@
+{
+  "name": "Network Nightmares",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "This connectivity catastrophe occurs when all WiFi signals worldwide suddenly become audible as annoying buzzing sounds",
+      "question": "What is audible interference pandemic?",
+      "available": true,
+      "value": 100,
+      "cat": "Network Nightmares"
+    },
+    {
+      "answer": "In this routing nightmare, all network packets worldwide begin taking the longest possible path to their destinations instead of the shortest",
+      "question": "What is maximum latency routing?",
+      "available": true,
+      "value": 200,
+      "cat": "Network Nightmares"
+    },
+    {
+      "answer": "This protocol disaster unfolds when all TCP packets worldwide arrive out of order, making reliable communication impossible",
+      "question": "What is packet ordering apocalypse?",
+      "available": true,
+      "value": 300,
+      "cat": "Network Nightmares"
+    },
+    {
+      "answer": "In this DNS disaster, every domain name worldwide suddenly resolves to a single IP address, causing massive connectivity chaos",
+      "question": "What is universal DNS redirection?",
+      "available": true,
+      "value": 400,
+      "cat": "Network Nightmares"
+    },
+    {
+      "answer": "This ultimate network failure happens when all data packets worldwide begin spontaneously duplicating themselves, flooding all networks",
+      "question": "What is infinite packet replication?",
+      "available": true,
+      "value": 500,
+      "cat": "Network Nightmares"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Code Cataclysms",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "This programming disaster occurs when a single semicolon error causes every computer program worldwide to crash simultaneously",
+      "question": "What is the great semicolon catastrophe?",
+      "available": true,
+      "value": 100,
+      "cat": "Code Cataclysms"
+    },
+    {
+      "answer": "In this coding nightmare, all programming languages suddenly require perfect syntax or refuse to compile any code at all",
+      "question": "What is syntax enforcement apocalypse?",
+      "available": true,
+      "value": 200,
+      "cat": "Code Cataclysms"
+    },
+    {
+      "answer": "This algorithmic disaster unfolds when all sorting algorithms worldwide begin running in reverse, making data increasingly disorganized",
+      "question": "What is reverse sorting pandemic?",
+      "available": true,
+      "value": 300,
+      "cat": "Code Cataclysms"
+    },
+    {
+      "answer": "In this version control catastrophe, git suddenly loses all commit history worldwide, leaving only the current state of all codebases",
+      "question": "What is commit history erasure?",
+      "available": true,
+      "value": 400,
+      "cat": "Code Cataclysms"
+    },
+    {
+      "answer": "This ultimate programming failure happens when all code comments worldwide become binding instructions that override the actual code",
+      "question": "What is comment supremacy rebellion?",
+      "available": true,
+      "value": 500,
+      "cat": "Code Cataclysms"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Tech Time Warps",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "In this alternate timeline, the abacus never evolved beyond its ancient form, and mechanical calculators were never invented",
+      "question": "What is the persistence of manual computation?",
+      "available": true,
+      "value": 100,
+      "cat": "Tech Time Warps"
+    },
+    {
+      "answer": "This parallel reality exists where the printing press was invented but electricity was never discovered, leading to steam-powered information age",
+      "question": "What is mechanical information revolution?",
+      "available": true,
+      "value": 200,
+      "cat": "Tech Time Warps"
+    },
+    {
+      "answer": "In this timeline divergence, the internet was invented in the 1950s but personal computers were never created, leading to mainframe-only computing",
+      "question": "What is network-before-desktop computing?",
+      "available": true,
+      "value": 300,
+      "cat": "Tech Time Warps"
+    },
+    {
+      "answer": "This alternate history features smartphones invented in the 1980s but the world wide web was never created, leading to app-only connectivity",
+      "question": "What is mobile-without-web revolution?",
+      "available": true,
+      "value": 400,
+      "cat": "Tech Time Warps"
+    },
+    {
+      "answer": "In this radical timeline shift, quantum computing was achieved in the 1970s but artificial intelligence remained at expert systems level",
+      "question": "What is quantum-without-AI advancement?",
+      "available": true,
+      "value": 500,
+      "cat": "Tech Time Warps"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Security Nightmares",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "This security disaster would unfold if every password in the world became publicly known simultaneously",
+      "question": "What is universal password compromise?",
+      "available": true,
+      "value": 100,
+      "cat": "Security Nightmares"
+    },
+    {
+      "answer": "In this biometric nightmare, facial recognition systems worldwide become hacked and can be spoofed by anyone with a printed photo",
+      "question": "What is biometric system collapse?",
+      "available": true,
+      "value": 200,
+      "cat": "Security Nightmares"
+    },
+    {
+      "answer": "This catastrophic failure occurs when all two-factor authentication systems globally stop working, leaving only passwords for protection",
+      "question": "What is 2FA apocalypse?",
+      "available": true,
+      "value": 300,
+      "cat": "Security Nightmares"
+    },
+    {
+      "answer": "In this encryption emergency, a fundamental flaw is discovered in all widely-used cryptographic algorithms, rendering them useless",
+      "question": "What is cryptographic breakthrough disaster?",
+      "available": true,
+      "value": 400,
+      "cat": "Security Nightmares"
+    },
+    {
+      "answer": "This ultimate security failure happens when artificial intelligence systems designed to protect networks instead begin attacking them",
+      "question": "What is guardian AI rebellion?",
+      "available": true,
+      "value": 500,
+      "cat": "Security Nightmares"
+    }
+  ]
+}

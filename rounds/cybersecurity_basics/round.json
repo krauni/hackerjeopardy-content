@@ -1,0 +1,15 @@
+{
+  "name": "Cybersecurity Basics",
+  "categories": [
+    "Firewall Follies",
+    "Password Party",
+    "Phishing Fiasco",
+    "Encryption Extravaganza",
+    "Web Weirdness",
+    "Hackers Hall of Fame"
+  ],
+  "comment": "Introduction to fundamental cybersecurity concepts",
+  "author": "Nils",
+  "version": "1.0.0",
+  "created": "2025-12-19"
+}

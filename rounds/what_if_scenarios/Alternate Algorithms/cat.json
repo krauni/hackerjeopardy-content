@@ -1,0 +1,44 @@
+{
+  "name": "Alternate Algorithms",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "This revolutionary computing paradigm would use DNA molecules instead of silicon chips to store and process vast amounts of information",
+      "question": "What is biological computing?",
+      "available": true,
+      "value": 100,
+      "cat": "Alternate Algorithms"
+    },
+    {
+      "answer": "In this emotional programming paradigm, code would be written based on human feelings and emotional states rather than strict logical constructs",
+      "question": "What is affective programming?",
+      "available": true,
+      "value": 200,
+      "cat": "Alternate Algorithms"
+    },
+    {
+      "answer": "This advanced algorithmic approach would predict future events by analyzing quantum probabilities and superposition states",
+      "question": "What is quantum prediction computing?",
+      "available": true,
+      "value": 300,
+      "cat": "Alternate Algorithms"
+    },
+    {
+      "answer": "This dream-based AI would learn from human subconscious patterns and REM sleep cycles instead of structured training data",
+      "question": "What is subconscious artificial intelligence?",
+      "available": true,
+      "value": 400,
+      "cat": "Alternate Algorithms"
+    },
+    {
+      "answer": "In this cosmic computing method, problems would be solved by simulating and exploring multiple parallel universes simultaneously",
+      "question": "What is multiversal computing?",
+      "available": true,
+      "value": 500,
+      "cat": "Alternate Algorithms"
+    }
+  ]
+}

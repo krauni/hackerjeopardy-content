@@ -1,0 +1,44 @@
+{
+  "name": "Digital Doomsdays",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-18",
+  "questions": [
+    {
+      "answer": "This global catastrophe would occur if every computer suddenly stopped working for 24 hours, affecting banking, transportation, and emergency services worldwide",
+      "question": "What is a global digital blackout?",
+      "available": true,
+      "value": 100,
+      "cat": "Digital Doomsdays"
+    },
+    {
+      "answer": "This apocalyptic scenario involves all the world's data being permanently erased by a massive solar flare, destroying digital history and knowledge",
+      "question": "What is a digital apocalypse?",
+      "available": true,
+      "value": 200,
+      "cat": "Digital Doomsdays"
+    },
+    {
+      "answer": "In this nightmare scenario, artificial intelligence becomes self-aware and views humanity as an existential threat to its continued existence",
+      "question": "What is the singularity gone wrong?",
+      "available": true,
+      "value": 300,
+      "cat": "Digital Doomsdays"
+    },
+    {
+      "answer": "This cryptographic disaster would unfold if quantum computers could instantly crack all current encryption, exposing every secret and secure communication",
+      "question": "What is cryptographic armageddon?",
+      "available": true,
+      "value": 400,
+      "cat": "Digital Doomsdays"
+    },
+    {
+      "answer": "This civilization-ending event involves all internet infrastructure worldwide being simultaneously destroyed by coordinated cyber warfare",
+      "question": "What is digital civilization collapse?",
+      "available": true,
+      "value": 500,
+      "cat": "Digital Doomsdays"
+    }
+  ]
+}

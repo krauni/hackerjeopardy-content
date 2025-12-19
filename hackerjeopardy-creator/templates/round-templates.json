@@ -63,5 +63,18 @@
       "Security Sentinel",
       "Cloud Carnival"
     ]
+  },
+  "what_if_scenarios": {
+    "name": "What If? Tech Scenarios",
+    "description": "Hypothetical technology scenarios and alternate realities",
+    "author": "Hacker Jeopardy Community",
+    "categories": [
+      "Digital Doomsdays",
+      "Alternate Algorithms",
+      "Security Nightmares",
+      "Tech Time Warps",
+      "Code Cataclysms",
+      "Network Nightmares"
+    ]
   }
 }

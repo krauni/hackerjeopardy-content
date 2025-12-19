@@ -264,6 +264,156 @@ Replace standard technical names with engaging, thematic alternatives:
 - Mix of text and image-based content
 - Progressive difficulty scaling
 
+## Creating Good and Fun Jeopardy Questions
+
+### Jeopardy Format Fundamentals
+
+**Structure:**
+
+- **Clue** (answer field): What contestants SEE on screen - should be descriptive and engaging
+- **Response** (question field): What contestants SAY - must follow "What is...?", "Who is...?", "What are...?" format
+
+**Example:**
+
+```json
+{
+  "answer": "This cryptographic algorithm uses a 128-bit key and is widely considered unbreakable by classical computers",
+  "question": "What is AES?"
+}
+```
+
+### Principles for Great Jeopardy Questions
+
+#### 1. **Engaging Clue Writing**
+
+- **Be descriptive**: Don't just state facts - paint a picture
+- **Use analogies**: Compare technical concepts to everyday things
+- **Add personality**: Use vivid language and wordplay
+- **Build curiosity**: Make contestants want to know the answer
+
+**Bad Clue:** "A type of cyber attack"
+**Good Clue:** "This malicious technique tricks users into revealing sensitive information by pretending to be a trustworthy entity"
+
+#### 2. **Difficulty Scaling**
+
+- **100 points**: Basic concepts, common knowledge
+- **200 points**: Standard practices, intermediate terms
+- **300 points**: Applied knowledge, working understanding
+- **400 points**: Specialized knowledge, specific implementations
+- **500 points**: Expert-level understanding, advanced concepts
+
+#### 3. **Fun Factor Techniques**
+
+**Wordplay & Puns:**
+
+- "This firewall acts like a nightclub bouncer, deciding who gets in and who gets turned away"
+- "Like a digital immune system, this security layer detects and blocks malicious activity"
+
+**Analogies & Metaphors:**
+
+- "This algorithm acts like a digital fingerprint, uniquely identifying data"
+- "Like a secret handshake between computers, this protocol ensures secure communication"
+
+**Pop Culture References:**
+
+- "Like the Death Star's weakness, this vulnerability could bring down an entire system"
+- "This coding error is like mixing up your Star Trek characters - a Kirk/Spock data type confusion"
+
+**Humor & Exaggeration:**
+
+- "This bug would make your computer slower than dial-up in the 1990s"
+- "Like a zombie apocalypse for servers, this malware spreads uncontrollably"
+
+#### 4. **Educational Balance**
+
+**Teach While Entertaining:**
+
+- Include accurate technical information
+- Explain concepts through engaging scenarios
+- Build on contestants' existing knowledge
+- Avoid overwhelming with jargon
+
+**Progressive Learning:**
+
+- Start with fundamentals (100-200 points)
+- Build complexity (300-400 points)
+- Reward deep knowledge (500 points)
+
+#### 5. **Category Cohesion**
+
+**Theme Consistency:**
+
+- Each category should have a clear, unified theme
+- Questions should flow logically within the category
+- Difficulty should scale smoothly
+- Maintain consistent tone and style
+
+**Fun Naming:**
+
+- Use alliteration: "Firewall Follies", "Code Catastrophes"
+- Employ puns: "Phishing Fiasco", "Password Party"
+- Be memorable: "Hackers Hall of Fame", "Digital Doomsdays"
+
+### Question Writing Workflow
+
+#### Step 1: Choose Your Topic
+
+- Select a technical concept or historical event
+- Ensure it has educational value
+- Consider how it relates to broader themes
+
+#### Step 2: Craft the Response First
+
+- Decide what the contestant will say
+- Ensure it follows Jeopardy format ("What is...?")
+- Make sure it's concise and definitive
+
+#### Step 3: Build the Clue
+
+- Write a descriptive, engaging clue
+- Include context and vivid details
+- Add fun elements (analogies, puns, humor)
+- Ensure appropriate difficulty level
+
+#### Step 4: Test & Refine
+
+- Read the clue aloud - does it spark curiosity?
+- Verify technical accuracy
+- Check that the response naturally follows from the clue
+- Ensure appropriate difficulty scaling
+
+### Common Pitfalls to Avoid
+
+#### Technical Jargon Overload
+
+❌ "This asymmetric cryptographic algorithm uses elliptic curve mathematics"
+✅ "Like a digital signature that only you can create but anyone can verify, this encryption method uses complex mathematical curves"
+
+#### Spoiler Clues
+
+❌ "The programming language created by Guido van Rossum"
+✅ "This snake-named language emphasizes code readability and has a philosophy that there's only one obvious way to do things"
+
+#### Too Vague
+
+❌ "A security concept"
+✅ "This principle ensures users have only the minimum permissions needed to perform their job, like giving house keys only to family members"
+
+#### Too Obscure
+
+❌ "The 1988 internet worm"
+✅ "This self-replicating program infected 6,000 computers in 1988 and demanded money from victims, pioneering digital extortion"
+
+### Quality Checklist
+
+- [ ] **Jeopardy Format**: Clue in answer field, response in question field
+- [ ] **Engaging Language**: Uses analogies, humor, or vivid descriptions
+- [ ] **Educational Value**: Teaches something meaningful
+- [ ] **Appropriate Difficulty**: Matches point value expectations
+- [ ] **Technical Accuracy**: All facts are correct
+- [ ] **Natural Flow**: Response naturally follows from clue
+- [ ] **Category Fit**: Aligns with category theme and naming
+
 ## Validation
 
 Before submitting, validate your content:
