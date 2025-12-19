@@ -1,6 +1,7 @@
 const inquirer = require("inquirer");
 const chalk = require("chalk");
 const ora = require("ora");
+const path = require("path");
 const FileManager = require("./file-manager");
 
 class RoundCreator {
@@ -226,6 +227,7 @@ class RoundCreator {
         "templates",
         "round-templates.json",
       );
+      console.log("Loading templates from:", templatesPath); // Debug
       const templates = require(templatesPath);
 
       const template = templates[templateName];
