@@ -1,0 +1,45 @@
+{
+  "name": "Mythische Mysterien",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses psychische Pokemon kann jede Attacke erlernen und sieht aus wie ein rosa Katzenwesen",
+      "question": "Was ist Mew?",
+      "available": true,
+      "value": 100,
+      "cat": "Mythische Mysterien"
+    },
+    {
+      "question": "Was ist Mewtu?",
+      "image": "Mewtu-silhouette-300.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Mythische Mysterien"
+    },
+    {
+      "answer": "Dieses Pokemon kann durch die Zeit reisen und sieht aus wie ein grüner Elf",
+      "question": "Was ist Celebi?",
+      "available": true,
+      "value": 300,
+      "cat": "Mythische Mysterien"
+    },
+    {
+      "question": "Was ist Dialga?",
+      "image": "Dialga-blur-200.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Mythische Mysterien"
+    },
+    {
+      "answer": "Dieses Pokemon ist das Sinnbild des Sieges und sieht aus wie ein weißes Eichhörnchen mit Flügeln",
+      "question": "Was ist Victini?",
+      "available": true,
+      "value": 500,
+      "cat": "Mythische Mysterien"
+    }
+  ]
+}

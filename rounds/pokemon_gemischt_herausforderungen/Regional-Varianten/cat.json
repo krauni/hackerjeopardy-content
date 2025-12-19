@@ -1,0 +1,45 @@
+{
+  "name": "Regional-Varianten",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "question": "Was ist Raichu?",
+      "image": "Raichu-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Regional-Varianten"
+    },
+    {
+      "answer": "Dieses Pikachu aus der Alola-Region hat psychische Kräfte statt Elektrizität",
+      "question": "Was ist Alola-Raichu?",
+      "available": true,
+      "value": 200,
+      "cat": "Regional-Varianten"
+    },
+    {
+      "question": "Was ist Toxtricity?",
+      "image": "Toxtricity-sepia-400.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Regional-Varianten"
+    },
+    {
+      "answer": "Dieses Pokemon aus der Galar-Region sieht aus wie ein Punk-Rocker mit giftigen Attacken",
+      "question": "Was ist Toxtricity?",
+      "available": true,
+      "value": 400,
+      "cat": "Regional-Varianten"
+    },
+    {
+      "question": "Was ist Vikavolt?",
+      "image": "Vikavolt-sketch-500.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Regional-Varianten"
+    }
+  ]
+}

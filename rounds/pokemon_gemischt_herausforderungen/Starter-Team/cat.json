@@ -1,0 +1,45 @@
+{
+  "name": "Starter-Team",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "question": "Was ist Bisasam?",
+      "image": "Bisasam-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Starter-Team"
+    },
+    {
+      "answer": "Dieses Feuer-Pokemon sieht aus wie ein Salamander und ist ein Starter der ersten Generation",
+      "question": "Was ist Glumanda?",
+      "available": true,
+      "value": 200,
+      "cat": "Starter-Team"
+    },
+    {
+      "question": "Was ist Schiggy?",
+      "image": "Schiggy-silhouette-300.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Starter-Team"
+    },
+    {
+      "answer": "Dieses Pflanzen-Pokemon aus Kalos sieht aus wie eine Katze mit Blumen und ist ein Starter",
+      "question": "Was ist Igamaro?",
+      "available": true,
+      "value": 400,
+      "cat": "Starter-Team"
+    },
+    {
+      "question": "Was ist Sprigatito?",
+      "image": "Sprigatito-sepia-400.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Starter-Team"
+    }
+  ]
+}

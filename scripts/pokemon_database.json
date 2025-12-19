@@ -1,0 +1,314 @@
+{
+  "pikachu": {
+    "english": "Pikachu",
+    "german": "Pikachu",
+    "generation": 1,
+    "types": ["Electric"],
+    "evolution_stage": "middle",
+    "image_sources": {
+      "bulbagarden": "/media/upload/4/4a/0025Pikachu.png",
+      "pokewiki": "https://www.pokewiki.de/images/4/4a/Pikachu.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    }
+  },
+  "glumanda": {
+    "english": "Charmander",
+    "german": "Glumanda",
+    "generation": 1,
+    "types": ["Fire"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/2/27/0004Charmander.png",
+      "pokewiki": "https://www.pokewiki.de/images/2/27/Glumanda.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    }
+  },
+  "schiggy": {
+    "english": "Squirtle",
+    "german": "Schiggy",
+    "generation": 1,
+    "types": ["Water"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/5/54/0007Squirtle.png",
+      "pokewiki": "https://www.pokewiki.de/images/5/54/Schiggy.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    }
+  },
+  "bisasam": {
+    "english": "Bulbasaur",
+    "german": "Bisasam",
+    "generation": 1,
+    "types": ["Grass", "Poison"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/f/fb/0001Bulbasaur.png",
+      "pokewiki": "https://www.pokewiki.de/images/f/fb/Bisasam.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    }
+  },
+  "mew": {
+    "english": "Mew",
+    "german": "Mew",
+    "generation": 1,
+    "types": ["Psychic"],
+    "evolution_stage": "mythical",
+    "image_sources": {
+      "bulbagarden": "/media/upload/9/9a/0151Mew.png",
+      "pokewiki": "https://www.pokewiki.de/images/9/9a/Mew.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png"
+    }
+  },
+  "mewtu": {
+    "english": "Mewtwo",
+    "german": "Mewtu",
+    "generation": 1,
+    "types": ["Psychic"],
+    "evolution_stage": "legendary",
+    "image_sources": {
+      "bulbagarden": "/media/upload/8/89/0150Mewtwo.png",
+      "pokewiki": "https://www.pokewiki.de/images/8/89/Mewtu.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+    }
+  },
+  "pichu": {
+    "english": "Pichu",
+    "german": "Pichu",
+    "generation": 2,
+    "types": ["Electric"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/f/f3/0172Pichu.png",
+      "pokewiki": "https://www.pokewiki.de/images/f/f3/Pichu.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/172.png"
+    }
+  },
+  "raichu": {
+    "english": "Raichu",
+    "german": "Raichu",
+    "generation": 1,
+    "types": ["Electric"],
+    "evolution_stage": "final",
+    "image_sources": {
+      "bulbagarden": "/media/upload/8/88/0026Raichu.png",
+      "pokewiki": "https://www.pokewiki.de/images/8/88/Raichu.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
+    }
+  },
+  "lucario": {
+    "english": "Lucario",
+    "german": "Lucario",
+    "generation": 4,
+    "types": ["Fighting", "Steel"],
+    "evolution_stage": "final",
+    "image_sources": {
+      "bulbagarden": "/media/upload/4/4b/0448Lucario.png",
+      "pokewiki": "https://www.pokewiki.de/images/4/4b/Lucario.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png"
+    }
+  },
+  "celebi": {
+    "english": "Celebi",
+    "german": "Celebi",
+    "generation": 2,
+    "types": ["Psychic", "Grass"],
+    "evolution_stage": "mythical",
+    "image_sources": {
+      "bulbagarden": "/media/upload/9/93/0251Celebi.png",
+      "pokewiki": "https://www.pokewiki.de/images/9/93/Celebi.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png"
+    }
+  },
+  "bummelz": {
+    "english": "Slakoth",
+    "german": "Bummelz",
+    "generation": 3,
+    "types": ["Normal"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/4/44/0287Slakoth.png",
+      "pokewiki": "https://www.pokewiki.de/images/4/44/Bummelz.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/287.png"
+    }
+  },
+  "geckarbor": {
+    "english": "Treecko",
+    "german": "Geckarbor",
+    "generation": 3,
+    "types": ["Grass"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/2/2c/0252Treecko.png",
+      "pokewiki": "https://www.pokewiki.de/images/2/2c/Geckarbor.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/252.png"
+    }
+  },
+  "hydropi": {
+    "english": "Mudkip",
+    "german": "Hydropi",
+    "generation": 3,
+    "types": ["Water"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/6/60/0258Mudkip.png",
+      "pokewiki": "https://www.pokewiki.de/images/6/60/Hydropi.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/258.png"
+    }
+  },
+  "plinfa": {
+    "english": "Piplup",
+    "german": "Plinfa",
+    "generation": 4,
+    "types": ["Water"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/7/79/0393Piplup.png",
+      "pokewiki": "https://www.pokewiki.de/images/7/79/Plinfa.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png"
+    }
+  },
+  "shinx": {
+    "english": "Shinx",
+    "german": "Shinx",
+    "generation": 4,
+    "types": ["Electric"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/4/4d/0403Shinx.png",
+      "pokewiki": "https://www.pokewiki.de/images/4/4d/Shinx.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/403.png"
+    }
+  },
+  "dialga": {
+    "english": "Dialga",
+    "german": "Dialga",
+    "generation": 4,
+    "types": ["Steel", "Dragon"],
+    "evolution_stage": "legendary",
+    "image_sources": {
+      "bulbagarden": "/media/upload/7/79/0483Dialga.png",
+      "pokewiki": "https://www.pokewiki.de/images/7/79/Dialga.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png"
+    }
+  },
+  "palkia": {
+    "english": "Palkia",
+    "german": "Palkia",
+    "generation": 4,
+    "types": ["Water", "Dragon"],
+    "evolution_stage": "legendary",
+    "image_sources": {
+      "bulbagarden": "/media/upload/6/6c/0484Palkia.png",
+      "pokewiki": "https://www.pokewiki.de/images/6/6c/Palkia.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png"
+    }
+  },
+  "victini": {
+    "english": "Victini",
+    "german": "Victini",
+    "generation": 5,
+    "types": ["Psychic", "Fire"],
+    "evolution_stage": "mythical",
+    "image_sources": {
+      "bulbagarden": "/media/upload/9/9e/0494Victini.png",
+      "pokewiki": "https://www.pokewiki.de/images/9/9e/Victini.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/494.png"
+    }
+  },
+  "igamaro": {
+    "english": "Chespin",
+    "german": "Igamaro",
+    "generation": 6,
+    "types": ["Grass"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/6/67/0650Chespin.png",
+      "pokewiki": "https://www.pokewiki.de/images/6/67/Igamaro.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png"
+    }
+  },
+  "froakie": {
+    "english": "Froakie",
+    "german": "Froakie",
+    "generation": 6,
+    "types": ["Water"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/4/4e/0656Froakie.png",
+      "pokewiki": "https://www.pokewiki.de/images/4/4e/Froakie.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/656.png"
+    }
+  },
+  "vikavolt": {
+    "english": "Vikavolt",
+    "german": "Vikavolt",
+    "generation": 7,
+    "types": ["Bug", "Electric"],
+    "evolution_stage": "final",
+    "image_sources": {
+      "bulbagarden": "/media/upload/9/9d/0738Vikavolt.png",
+      "pokewiki": "https://www.pokewiki.de/images/9/9d/Vikavolt.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/738.png"
+    }
+  },
+  "morpeko": {
+    "english": "Morpeko",
+    "german": "Morpeko",
+    "generation": 8,
+    "types": ["Electric", "Dark"],
+    "evolution_stage": "final",
+    "image_sources": {
+      "bulbagarden": "/media/upload/5/59/0877Morpeko.png",
+      "pokewiki": "https://www.pokewiki.de/images/5/59/Morpeko.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/877.png"
+    }
+  },
+  "toxtricity": {
+    "english": "Toxtricity",
+    "german": "Toxtricity",
+    "generation": 8,
+    "types": ["Electric", "Poison"],
+    "evolution_stage": "final",
+    "image_sources": {
+      "bulbagarden": "/media/upload/8/8b/0849Toxtricity.png",
+      "pokewiki": "https://www.pokewiki.de/images/8/8b/Toxtricity.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/849.png"
+    }
+  },
+  "sprigatito": {
+    "english": "Sprigatito",
+    "german": "Sprigatito",
+    "generation": 9,
+    "types": ["Grass"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/7/7b/0906Sprigatito.png",
+      "pokewiki": "https://www.pokewiki.de/images/7/7b/Sprigatito.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/906.png"
+    }
+  },
+  "fuecoco": {
+    "english": "Fuecoco",
+    "german": "Fuecoco",
+    "generation": 9,
+    "types": ["Fire"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/1/12/0909Fuecoco.png",
+      "pokewiki": "https://www.pokewiki.de/images/1/12/Fuecoco.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/909.png"
+    }
+  },
+  "quaxly": {
+    "english": "Quaxly",
+    "german": "Quaxly",
+    "generation": 9,
+    "types": ["Water"],
+    "evolution_stage": "baby",
+    "image_sources": {
+      "bulbagarden": "/media/upload/9/91/0912Quaxly.png",
+      "pokewiki": "https://www.pokewiki.de/images/9/91/Quaxly.png",
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/912.png"
+    }
+  }
+}

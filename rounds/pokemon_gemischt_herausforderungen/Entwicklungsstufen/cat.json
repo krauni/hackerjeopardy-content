@@ -1,0 +1,45 @@
+{
+  "name": "Entwicklungsstufen",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "question": "Was ist Pichu?",
+      "image": "Pichu-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Entwicklungsstufen"
+    },
+    {
+      "answer": "Dieses Pokemon entwickelt sich aus Pichu und sieht aus wie eine gelbe Maus mit roten Wangen",
+      "question": "Was ist Pikachu?",
+      "available": true,
+      "value": 200,
+      "cat": "Entwicklungsstufen"
+    },
+    {
+      "question": "Was ist Raichu?",
+      "image": "Raichu-blur-200.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Entwicklungsstufen"
+    },
+    {
+      "answer": "Dieses Pokemon entwickelt sich aus Riolu und ist ein Kämpfer mit Aura-Kräften",
+      "question": "Was ist Lucario?",
+      "available": true,
+      "value": 400,
+      "cat": "Entwicklungsstufen"
+    },
+    {
+      "question": "Was ist Bummelz?",
+      "image": "Bummelz-sepia-400.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Entwicklungsstufen"
+    }
+  ]
+}

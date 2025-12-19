@@ -1,0 +1,45 @@
+{
+  "name": "Silhouetten-Jäger",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses Elektro-Pokemon sieht aus wie eine gelbe Maus mit roten Backen und kann Blitze speichern",
+      "question": "Was ist Pikachu?",
+      "available": true,
+      "value": 100,
+      "cat": "Silhouetten-Jäger"
+    },
+    {
+      "question": "Was ist Glumanda?",
+      "image": "Glumanda-silhouette-300.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Silhouetten-Jäger"
+    },
+    {
+      "answer": "Dieses Wasser-Pokemon sieht aus wie eine Schildkröte und ist ein Starter-Pokemon der ersten Generation",
+      "question": "Was ist Schiggy?",
+      "available": true,
+      "value": 300,
+      "cat": "Silhouetten-Jäger"
+    },
+    {
+      "question": "Was ist Bisasam?",
+      "image": "Bisasam-silhouette-400.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Silhouetten-Jäger"
+    },
+    {
+      "answer": "Dieses psychische Pokemon kann jede Attacke erlernen und sieht aus wie ein rosa Katzenwesen",
+      "question": "Was ist Mew?",
+      "available": true,
+      "value": 500,
+      "cat": "Silhouetten-Jäger"
+    }
+  ]
+}

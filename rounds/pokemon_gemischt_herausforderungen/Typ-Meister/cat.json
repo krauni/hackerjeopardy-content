@@ -1,0 +1,45 @@
+{
+  "name": "Typ-Meister",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses Wasser-Pokemon sieht aus wie eine Schildkröte und ist ein klassisches Starter-Pokemon",
+      "question": "Was ist Schiggy?",
+      "available": true,
+      "value": 100,
+      "cat": "Typ-Meister"
+    },
+    {
+      "question": "Was ist Glumanda?",
+      "image": "Glumanda-silhouette-300.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Typ-Meister"
+    },
+    {
+      "answer": "Dieses Pflanzen-Pokemon trägt eine Zwiebel auf dem Rücken und ist ein Starter der ersten Generation",
+      "question": "Was ist Bisasam?",
+      "available": true,
+      "value": 300,
+      "cat": "Typ-Meister"
+    },
+    {
+      "question": "Was ist Shinx?",
+      "image": "Shinx-blur-200.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Typ-Meister"
+    },
+    {
+      "answer": "Dieses Pokemon ist ein Kämpfer und Stahl-Typ mit Aura-Kräften und sieht aus wie ein Blau-Affe",
+      "question": "Was ist Lucario?",
+      "available": true,
+      "value": 500,
+      "cat": "Typ-Meister"
+    }
+  ]
+}
