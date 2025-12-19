@@ -4,5 +4,41 @@
   "author": "Hacker Jeopardy Community",
   "licence": "MIT",
   "date": "2025-12-19",
-  "questions": []
+  "questions": [
+    {
+      "answer": "This secret combination of characters protects your accounts, like a digital key that only you should know",
+      "question": "What is a password?",
+      "available": true,
+      "value": 100,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "This security method requires users to provide something they know plus something they have, like a password plus a phone",
+      "question": "What is two-factor authentication?",
+      "available": true,
+      "value": 200,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "This password policy requires mixing uppercase letters, lowercase letters, numbers, and special characters for stronger security",
+      "question": "What is complexity requirements?",
+      "available": true,
+      "value": 300,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "This digital vault securely stores and generates complex passwords, acting like a personal assistant for password management",
+      "question": "What is a password manager?",
+      "available": true,
+      "value": 400,
+      "cat": "Password Party"
+    },
+    {
+      "answer": "This security principle requires users to change your passwords regularly, like rotating the keys to your house periodically",
+      "question": "What is password expiration policy?",
+      "available": true,
+      "value": 500,
+      "cat": "Password Party"
+    }
+  ]
 }

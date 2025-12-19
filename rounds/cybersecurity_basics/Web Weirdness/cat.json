@@ -4,5 +4,41 @@
   "author": "Hacker Jeopardy Community",
   "licence": "MIT",
   "date": "2025-12-19",
-  "questions": []
+  "questions": [
+    {
+      "answer": "This protocol adds security to web browsing, encrypting data between your browser and websites, represented by the 'S' in its name",
+      "question": "What is HTTPS?",
+      "available": true,
+      "value": 100,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "This web vulnerability allows attackers to inject malicious scripts into web pages viewed by other users, like adding poison to someone else's drink",
+      "question": "What is Cross-Site Scripting?",
+      "available": true,
+      "value": 200,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "This dangerous web security flaw occurs when applications don't properly validate user input, allowing attackers to manipulate databases or servers",
+      "question": "What is SQL injection?",
+      "available": true,
+      "value": 300,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "This security header tells browsers to only load resources from approved sources, acting like a VIP list for website content",
+      "question": "What is Content Security Policy?",
+      "available": true,
+      "value": 400,
+      "cat": "Web Weirdness"
+    },
+    {
+      "answer": "This web vulnerability allows attackers to perform actions on behalf of other users without proper authorization, like stealing someone's identity at a party",
+      "question": "What is broken access control?",
+      "available": true,
+      "value": 500,
+      "cat": "Web Weirdness"
+    }
+  ]
 }

@@ -2,9 +2,9 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T11:33:04.264Z",
+  "lastUpdated": "2025-12-19T12:41:00.474Z",
   "totalRounds": 4,
-  "totalSize": 50355,
+  "totalSize": 67509,
   "rounds": [
     {
       "id": "cybersecurity_basics",
@@ -21,7 +21,7 @@
       ],
       "author": "Nils",
       "lastModified": "2025-12-19",
-      "size": 2298,
+      "size": 19452,
       "description": "Introduction to fundamental cybersecurity concepts",
       "tags": []
     },

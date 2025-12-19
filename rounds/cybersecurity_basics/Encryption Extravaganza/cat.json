@@ -4,5 +4,41 @@
   "author": "Hacker Jeopardy Community",
   "licence": "MIT",
   "date": "2025-12-19",
-  "questions": []
+  "questions": [
+    {
+      "answer": "This process scrambles data so only authorized people can read it, like writing a secret message in invisible ink",
+      "question": "What is encryption?",
+      "available": true,
+      "value": 100,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "This encryption method uses the same secret key for both scrambling and unscrambling data, like having one key for your diary",
+      "question": "What is symmetric encryption?",
+      "available": true,
+      "value": 200,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "This encryption approach uses different keys for locking and unlocking, like having a public mailbox anyone can use but only you can open",
+      "question": "What is asymmetric encryption?",
+      "available": true,
+      "value": 300,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "This mathematical function creates a unique digital fingerprint of data that cannot be forged or reversed",
+      "question": "What is a hash function?",
+      "available": true,
+      "value": 400,
+      "cat": "Encryption Extravaganza"
+    },
+    {
+      "answer": "This cryptographic proof ensures data hasn't been tampered with and comes from a verified source, like a secret handshake",
+      "question": "What is a digital signature?",
+      "available": true,
+      "value": 500,
+      "cat": "Encryption Extravaganza"
+    }
+  ]
 }

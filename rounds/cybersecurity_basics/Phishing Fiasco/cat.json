@@ -4,5 +4,41 @@
   "author": "Hacker Jeopardy Community",
   "licence": "MIT",
   "date": "2025-12-19",
-  "questions": []
+  "questions": [
+    {
+      "answer": "This cyber attack tricks people into revealing sensitive information by pretending to be trustworthy, like a fisherman using bait",
+      "question": "What is phishing?",
+      "available": true,
+      "value": 100,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "This phishing technique targets high-level executives with personalized attacks, like a con artist researching their wealthy mark",
+      "question": "What is whaling?",
+      "available": true,
+      "value": 200,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "This deceptive phishing method creates fake websites that look identical to legitimate ones to steal login credentials",
+      "question": "What is pharming?",
+      "available": true,
+      "value": 300,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "This voice-based phishing attack involves calling victims and pretending to be tech support or authorities to extract information",
+      "question": "What is vishing?",
+      "available": true,
+      "value": 400,
+      "cat": "Phishing Fiasco"
+    },
+    {
+      "answer": "This mobile phishing variant uses text messages to deliver malicious links, like sending a fake delivery notification",
+      "question": "What is smishing?",
+      "available": true,
+      "value": 500,
+      "cat": "Phishing Fiasco"
+    }
+  ]
 }

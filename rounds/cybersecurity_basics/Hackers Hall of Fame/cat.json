@@ -4,5 +4,41 @@
   "author": "Hacker Jeopardy Community",
   "licence": "MIT",
   "date": "2025-12-19",
-  "questions": []
+  "questions": [
+    {
+      "answer": "This computer bug was discovered in 1947 when a moth got stuck in a Harvard Mark II computer relay, giving us the term 'debugging'",
+      "question": "What was the first computer bug?",
+      "available": true,
+      "value": 100,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "This British mathematician helped crack the German Enigma code during World War II, laying foundations for modern computing",
+      "question": "Who was Alan Turing?",
+      "available": true,
+      "value": 200,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "This 1988 self-replicating computer program infected 6,000 Unix systems and demanded payment, pioneering digital extortion",
+      "question": "What was the Morris Worm?",
+      "available": true,
+      "value": 300,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "This whistleblower leaked classified NSA documents in 2013, exposing global surveillance programs and inspiring the term 'going dark'",
+      "question": "Who was Edward Snowden?",
+      "available": true,
+      "value": 400,
+      "cat": "Hackers Hall of Fame"
+    },
+    {
+      "answer": "This early hacker collective, formed in the 1980s, combined technical expertise with political activism and social consciousness",
+      "question": "Who were the Legion of Doom?",
+      "available": true,
+      "value": 500,
+      "cat": "Hackers Hall of Fame"
+    }
+  ]
 }

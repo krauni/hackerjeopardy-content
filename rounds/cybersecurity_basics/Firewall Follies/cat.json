@@ -4,5 +4,41 @@
   "author": "Hacker Jeopardy Community",
   "licence": "MIT",
   "date": "2025-12-19",
-  "questions": []
+  "questions": [
+    {
+      "answer": "This network security device acts like a digital bouncer, checking who gets to enter your network and blocking unwanted visitors",
+      "question": "What is a firewall?",
+      "available": true,
+      "value": 100,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "This firewall type examines each network packet individually, like a meticulous security guard checking every guest's invitation at a party",
+      "question": "What is a packet-filtering firewall?",
+      "available": true,
+      "value": 200,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "These firewalls use advanced techniques to understand application behavior, going beyond simple port and protocol checking",
+      "question": "What are next-generation firewalls?",
+      "available": true,
+      "value": 300,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "This firewall inspection method reads the actual content of network packets, like opening letters to check for dangerous contents",
+      "question": "What is deep packet inspection?",
+      "available": true,
+      "value": 400,
+      "cat": "Firewall Follies"
+    },
+    {
+      "answer": "This comprehensive security approach combines firewall, antivirus, intrusion prevention, and content filtering in one system",
+      "question": "What is unified threat management?",
+      "available": true,
+      "value": 500,
+      "cat": "Firewall Follies"
+    }
+  ]
 }
