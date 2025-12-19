@@ -1,0 +1,44 @@
+{
+  "name": "Super Kräfte",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-19",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon kann Blitze erzeugen und ist so berühmt dafür, dass es einen eigenen Angriff mit seinem Namen hat",
+      "question": "Was ist Pikachu?",
+      "available": true,
+      "value": 100,
+      "cat": "Super Kräfte"
+    },
+    {
+      "answer": "Dieses Pokemon kann Feuer speien und hat einen Schwanz, der wie eine Flamme aussieht",
+      "question": "Was ist Glurak?",
+      "available": true,
+      "value": 200,
+      "cat": "Super Kräfte"
+    },
+    {
+      "answer": "Dieses Pokemon kann sich in jedes andere Pokemon verwandeln und wird oft für lustige Witze verwendet",
+      "question": "Was ist Ditto?",
+      "available": true,
+      "value": 300,
+      "cat": "Super Kräfte"
+    },
+    {
+      "answer": "Dieses Pokemon kann teleportieren und wurde als letztes Pokemon in der ersten Generation entdeckt",
+      "question": "Was ist Mew?",
+      "available": true,
+      "value": 400,
+      "cat": "Super Kräfte"
+    },
+    {
+      "answer": "Dieses Pokemon kann die Zukunft sehen und Angriffe vorhersagen, bevor sie passieren",
+      "question": "Was ist Simsala?",
+      "available": true,
+      "value": 500,
+      "cat": "Super Kräfte"
+    }
+  ]
+}

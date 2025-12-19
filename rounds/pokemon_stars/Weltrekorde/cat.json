@@ -1,0 +1,44 @@
+{
+  "name": "Weltrekorde",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-19",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon ist das leichteste aller Pokemon und wiegt fast nichts",
+      "question": "Was ist Haagnid?",
+      "available": true,
+      "value": 100,
+      "cat": "Weltrekorde"
+    },
+    {
+      "answer": "Dieses Pokemon ist das größte aller Pokemon und könnte ein ganzes Haus bedecken",
+      "question": "Was ist Wailord?",
+      "available": true,
+      "value": 200,
+      "cat": "Weltrekorde"
+    },
+    {
+      "answer": "Dieses Pokemon kann die meisten verschiedenen Attacken erlernen - mehr als jedes andere Pokemon",
+      "question": "Was ist Mew?",
+      "available": true,
+      "value": 300,
+      "cat": "Weltrekorde"
+    },
+    {
+      "answer": "Dieses Pokemon hat die höchste Grundstärke aller Pokemon und ist unglaublich mächtig",
+      "question": "Was ist Arceus?",
+      "available": true,
+      "value": 400,
+      "cat": "Weltrekorde"
+    },
+    {
+      "answer": "Dieses Pokemon hat die höchste Verteidigung aller Pokemon und ist fast unverwundbar",
+      "question": "Was ist Shuckle?",
+      "available": true,
+      "value": 500,
+      "cat": "Weltrekorde"
+    }
+  ]
+}

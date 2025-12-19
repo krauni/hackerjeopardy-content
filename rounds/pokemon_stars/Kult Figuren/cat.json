@@ -1,0 +1,44 @@
+{
+  "name": "Kult Figuren",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-19",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon ist auf Millionen von T-Shirts, Rucksäcken und Kuscheltieren zu sehen und ist das Gesicht der ganzen Marke",
+      "question": "Was ist Pikachu?",
+      "available": true,
+      "value": 100,
+      "cat": "Kult Figuren"
+    },
+    {
+      "answer": "Dieses Pokemon hat einen eigenen Platz in der Popkultur und wird oft als 'das nutzlose Pokemon' bezeichnet",
+      "question": "Was ist Karpador?",
+      "available": true,
+      "value": 200,
+      "cat": "Kult Figuren"
+    },
+    {
+      "answer": "Dieses Pokemon ist berühmt für seine Gesangseinlagen und schläft ein, wenn man es unterbricht",
+      "question": "Was ist Pummeluff?",
+      "available": true,
+      "value": 300,
+      "cat": "Kult Figuren"
+    },
+    {
+      "answer": "Dieses Pokemon ahmt alles nach und wurde zum Symbol für Cosplay und Verkleidungen",
+      "question": "Was ist Pantimos?",
+      "available": true,
+      "value": 400,
+      "cat": "Kult Figuren"
+    },
+    {
+      "answer": "Dieses Pokemon schläft den ganzen Tag und ist zum Symbol für Faulheit geworden",
+      "question": "Was ist Relaxo?",
+      "available": true,
+      "value": 500,
+      "cat": "Kult Figuren"
+    }
+  ]
+}

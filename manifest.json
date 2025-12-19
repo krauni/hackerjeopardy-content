@@ -2,9 +2,9 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T12:41:00.474Z",
-  "totalRounds": 4,
-  "totalSize": 67509,
+  "lastUpdated": "2025-12-19T13:48:56.842Z",
+  "totalRounds": 5,
+  "totalSize": 84406,
   "rounds": [
     {
       "id": "cybersecurity_basics",
@@ -58,6 +58,25 @@
       "lastModified": "2025-12-19",
       "size": 7908,
       "description": "A demonstration round showing the content structure",
+      "tags": []
+    },
+    {
+      "id": "pokemon_stars",
+      "name": "Pokemon Stars",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "Berühmte Pokemon",
+        "Familien Bäume",
+        "Super Kräfte",
+        "Film Stars",
+        "Kult Figuren",
+        "Weltrekorde"
+      ],
+      "author": "Hacker Jeopardy Community",
+      "lastModified": "2025-12-19",
+      "size": 16897,
+      "description": "Berühmte Pokemon als Popkultur-Ikonen und ihre kulturelle Bedeutung",
       "tags": []
     },
     {

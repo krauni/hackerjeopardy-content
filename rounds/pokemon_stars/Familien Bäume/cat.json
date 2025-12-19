@@ -1,0 +1,44 @@
+{
+  "name": "Familien Bäume",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-19",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon entwickelt sich aus einem kleinen, gelben Pokemon und wird zu einem riesigen Drachen mit Flügeln",
+      "question": "Was ist Glurak?",
+      "available": true,
+      "value": 100,
+      "cat": "Familien Bäume"
+    },
+    {
+      "answer": "Aus diesem kleinen, grünen Samen entwickelt sich ein riesiges Pflanzenmonster mit Blumen auf dem Rücken",
+      "question": "Was ist Bisaflor?",
+      "available": true,
+      "value": 200,
+      "cat": "Familien Bäume"
+    },
+    {
+      "answer": "Dieses Pokemon entwickelt sich aus einem kleinen, blauen Pokemon und wird zu einer riesigen Wasserschildkröte",
+      "question": "Was ist Turtok?",
+      "available": true,
+      "value": 300,
+      "cat": "Familien Bäume"
+    },
+    {
+      "answer": "Aus diesem niedlichen Eichhörnchen können sich verschiedene Pokemon entwickeln, je nachdem wie es trainiert wird",
+      "question": "Was ist Evoli?",
+      "available": true,
+      "value": 400,
+      "cat": "Familien Bäume"
+    },
+    {
+      "answer": "Dieses Pokemon entwickelt sich aus einem kleinen, rosa Pokemon und kann dann nochmal zu einem riesigen, fliegenden Pokemon werden",
+      "question": "Was ist Simsala?",
+      "available": true,
+      "value": 500,
+      "cat": "Familien Bäume"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Film Stars",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-19",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon spielte die Hauptrolle in den ersten Pokemon-Filmen und kämpfte gegen Mewtu",
+      "question": "Was ist Pikachu?",
+      "available": true,
+      "value": 100,
+      "cat": "Film Stars"
+    },
+    {
+      "answer": "Dieses Pokemon war der Bösewicht in den ersten Pokemon-Filmen und wurde von einem Wissenschaftler geklont",
+      "question": "Was ist Mewtu?",
+      "available": true,
+      "value": 200,
+      "cat": "Film Stars"
+    },
+    {
+      "answer": "Dieses aura-empfindliche Pokemon spielte eine wichtige Rolle in einem Pokemon-Film über die Zeit",
+      "question": "Was ist Lucario?",
+      "available": true,
+      "value": 300,
+      "cat": "Film Stars"
+    },
+    {
+      "answer": "Dieses Pokemon kontrolliert die Zeit und kämpfte in einem Film gegen seinen Bruder, der den Raum kontrolliert",
+      "question": "Was ist Dialga?",
+      "available": true,
+      "value": 400,
+      "cat": "Film Stars"
+    },
+    {
+      "answer": "Dieses Pokemon ist der Wächter der Antarktis und erschien in einem Film über die mythischen Pokemon",
+      "question": "Was ist Regigigas?",
+      "available": true,
+      "value": 500,
+      "cat": "Film Stars"
+    }
+  ]
+}
