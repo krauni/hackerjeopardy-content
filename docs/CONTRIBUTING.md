@@ -414,6 +414,223 @@ Replace standard technical names with engaging, thematic alternatives:
 - [ ] **Natural Flow**: Response naturally follows from clue
 - [ ] **Category Fit**: Aligns with category theme and naming
 
+## Creating Entertainment-Focused Rounds
+
+While educational rounds teach technical concepts, entertainment-focused rounds prioritize fun, pop culture, and social engagement over learning objectives. These rounds create memorable gaming experiences through humor, nostalgia, and viral trends.
+
+### Entertainment vs Education
+
+**Entertainment Rounds:**
+
+- **Goal**: Maximize fun and social interaction
+- **Content**: Pop culture, memes, internet trends, humorous anecdotes
+- **Accuracy**: Fun and shareability prioritized over technical precision
+- **Audience**: Broad appeal, casual players, social gatherings
+
+**Educational Rounds:**
+
+- **Goal**: Teach technical concepts and build knowledge
+- **Content**: Accurate technical information with clear explanations
+- **Accuracy**: Technical precision and educational value required
+- **Audience**: Students, professionals, skill development
+
+### Entertainment Round Planning
+
+#### Step 1: Choose Entertainment Theme
+
+Select a fun, engaging theme that resonates with players:
+
+- **Internet Culture**: Memes, viral trends, social media phenomena
+- **Gaming**: Video games, esports moments, gaming culture
+- **Pop Culture Tech**: Celebrity tech fails, movie references, tech in media
+- **Nostalgia**: Retro computing, classic software, internet history
+- **Humor**: Programming jokes, tech fails, industry satire
+
+#### Step 2: Design Fun Categories
+
+Create 6 thematic categories with entertaining names:
+
+**Internet Culture Example:**
+
+- "Meme Museum" - Classic and viral memes
+- "Viral Vortex" - Social media trends and challenges
+- "Hashtag Havoc" - Social media drama and movements
+- "Emoji Empire" - Emoji meanings and usage
+- "TikTok Tornado" - Short-form video culture
+- "Reddit Realms" - Online community phenomena
+
+**Gaming Example:**
+
+- "Boss Battle Blunders" - Epic gaming fails
+- "Character Creation Chaos" - Funny character builds
+- "Speedrun Shenanigans" - Glitch exploits and tricks
+- "Achievement Absurdities" - Unusual gaming achievements
+- "Multiplayer Mayhem" - Online gaming stories
+- "Retro Gaming Relics" - Classic game nostalgia
+
+#### Step 3: Craft Entertaining Questions
+
+**Question Types for Entertainment:**
+
+- **Pop Culture References**: "This tech billionaire's failed Twitter acquisition became an internet meme"
+- **Humorous Scenarios**: "What would happen if cats took over the internet?"
+- **Viral Moments**: "This programming language's mascot inspired countless memes"
+- **Nostalgic Trivia**: "The original iPhone launch caused this shopping website to crash"
+- **Industry Drama**: "This tech company rivalry inspired a blockbuster movie"
+
+**Entertainment Question Examples:**
+
+**Category: Meme Museum (200 points)**
+
+- Clue: "This dancing hot dog became an internet sensation when it interrupted a sports broadcast"
+- Response: "What is the Oscar Mayer Wiener Jingle?"
+
+**Category: Boss Battle Blunders (300 points)**
+
+- Clue: "This video game boss fight became infamous for being so difficult that players needed external help"
+- Response: "What is Dark Souls' Ornstein and Smough?"
+
+**Category: Speedrun Shenanigans (400 points)**
+
+- Clue: "This glitch in a classic platformer allows players to skip the entire game in under 5 seconds"
+- Response: "What is Wrong Warp in Super Mario Bros.?"
+
+### Entertainment Question Guidelines
+
+#### Make It Shareable
+
+- Questions should spark conversation after the game
+- Include elements people want to discuss or debate
+- Create memorable moments that players will reference later
+
+#### Balance Difficulty
+
+- **100 points**: Common viral moments, widely known memes
+- **200 points**: Current trends, recent viral content
+- **300 points**: Niche but entertaining trivia
+- **400 points**: Deeper cuts, insider knowledge
+- **500 points**: Rare or obscure entertaining facts
+
+#### Focus on Fun Factors
+
+- **Humor**: Puns, jokes, amusing anecdotes
+- **Nostalgia**: Childhood memories, retro tech
+- **Shock Value**: Surprising or counterintuitive facts
+- **Relatability**: Experiences most people can connect with
+- **Timeliness**: Current events and trending topics
+
+### Quality Standards for Entertainment
+
+#### Engagement Criteria
+
+- [ ] **Shareability**: Players want to tell others about the question
+- [ ] **Memorability**: Questions that stick in players' minds
+- [ ] **Conversation Starter**: Sparks discussion or debate
+- [ ] **Broad Appeal**: Accessible to diverse player backgrounds
+
+#### Entertainment Balance
+
+- [ ] **Humor Distribution**: Mix of different humor styles (puns, irony, absurdity)
+- [ ] **Cultural Relevance**: References players can relate to
+- [ ] **Timeliness**: Mix of current and timeless entertainment
+- [ ] **Appropriateness**: Suitable for general audiences
+
+#### Technical Quality (Still Important)
+
+- [ ] **Jeopardy Format**: Proper clue/response structure maintained
+- [ ] **Category Consistency**: Questions fit their category theme
+- [ ] **Answer Precision**: Clear, definitive responses
+- [ ] **Difficulty Scaling**: Logical progression within categories
+
+### Entertainment Round Examples
+
+#### Round Theme: "Internet Culture Madness"
+
+**Categories:**
+
+- "Meme Museum" - Classic internet memes
+- "Viral Vortex" - Social media trends
+- "Hashtag Havoc" - Social movements and drama
+- "Emoji Empire" - Digital communication quirks
+- "Filter Fiascos" - Social media photo fails
+- "Dance Challenge Disasters" - Viral dance trends gone wrong
+
+**Sample Question (Meme Museum, 200 points):**
+
+- Clue: "This cat photo with the caption 'I can has cheezburger' launched an entire language of lolcat speak"
+- Response: "What is the original lolcat?"
+
+#### Round Theme: "Gaming Glory & Fails"
+
+**Categories:**
+
+- "Boss Battle Blunders" - Infamous difficult fights
+- "Character Creation Chaos" - Ridiculous character builds
+- "Speedrun Shenanigans" - Glitch exploits and tricks
+- "Achievement Absurdities" - Unusual gaming accomplishments
+- "Multiplayer Mayhem" - Online gaming horror stories
+- "Retro Gaming Relics" - Classic game nostalgia
+
+### Development Workflow for Entertainment
+
+#### Phase 1: Theme Research (30 minutes)
+
+- Explore current pop culture and viral trends
+- Identify entertaining topics and memes
+- Brainstorm humorous angles and perspectives
+
+#### Phase 2: Category Creation (45 minutes)
+
+- Design 6 fun category names
+- Ensure categories are distinct but thematically related
+- Test category names for memorability and appeal
+
+#### Phase 3: Question Writing (2 hours)
+
+- Create 30 entertaining questions (5 per category)
+- Focus on shareability and engagement
+- Balance humor styles and difficulty levels
+- Iterate on questions that don't land well
+
+#### Phase 4: Quality Review (30 minutes)
+
+- Test questions for entertainment value
+- Verify Jeopardy format compliance
+- Check for appropriate tone and appeal
+- Ensure broad accessibility
+
+### Common Entertainment Pitfalls
+
+#### Forced Humor
+
+❌ "Why did the programmer quit his job? Because he didn't get arrays!"
+✅ "This programming error caused a major bank's website to display random movie quotes instead of account balances"
+
+#### Outdated References
+
+❌ "This MySpace feature revolutionized social networking"
+✅ "This TikTok dance challenge went viral when a celebrity politician attempted it"
+
+#### Too Niche
+
+❌ "This obscure indie game developer created a cult following"
+✅ "This mobile game became so addictive that companies banned it during work hours"
+
+#### Offensive Content
+
+❌ References that could alienate or offend players
+✅ Inclusive humor that brings people together
+
+### Entertainment Round Checklist
+
+- [ ] **Theme Selection**: Clear, engaging entertainment theme
+- [ ] **Category Appeal**: Fun, memorable category names
+- [ ] **Question Entertainment**: Each question maximizes fun and shareability
+- [ ] **Difficulty Balance**: Progressive scaling appropriate for entertainment content
+- [ ] **Cultural Sensitivity**: Appropriate for general audiences
+- [ ] **Jeopardy Compliance**: Proper format maintained despite entertainment focus
+- [ ] **Testing**: Questions tested for engagement and memorability
+
 ## Validation
 
 Before submitting, validate your content:
