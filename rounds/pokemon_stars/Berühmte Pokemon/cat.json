@@ -8,6 +8,7 @@
     {
       "answer": "Dieses gelbe Pokemon ist das berühmteste aller Pokemon und hat rote Backen, die wie Blitzableiter aussehen",
       "question": "Was ist Pikachu?",
+      "image": "pikachu-100.jpg",
       "available": true,
       "value": 100,
       "cat": "Berühmte Pokemon"
@@ -15,13 +16,15 @@
     {
       "answer": "Dieses Pokemon sieht aus wie ein süßes Eichhörnchen und kann sich in viele verschiedene Pokemon entwickeln",
       "question": "Was ist Evoli?",
+      "image": "evoli-200.jpg",
       "available": true,
       "value": 200,
       "cat": "Berühmte Pokemon"
     },
     {
-      "answer": "Dieses Pokemon ist ein riesiger, freundlicher Drache und war das Maskottchen der Pokemon-Ruby- und Saphir-Editionen",
+      "answer": "Dieses riesige, freundliche Drache ist das Maskottchen der Pokemon-Ruby- und Saphir-Editionen",
       "question": "Was ist Bisaflor?",
+      "image": "bisaflor-300.jpg",
       "available": true,
       "value": 300,
       "cat": "Berühmte Pokemon"
@@ -29,6 +32,7 @@
     {
       "answer": "Dieses Pokemon ist eine Legende und sieht aus wie eine Katze mit einem Mond auf der Stirn",
       "question": "Was ist Mewtu?",
+      "image": "mewtu-400.jpg",
       "available": true,
       "value": 400,
       "cat": "Berühmte Pokemon"
@@ -36,6 +40,7 @@
     {
       "answer": "Dieses Pokemon sieht aus wie eine Schildkröte und war das Maskottchen der Pokemon-Blaue-Edition",
       "question": "Was ist Turtok?",
+      "image": "turtok-500.jpg",
       "available": true,
       "value": 500,
       "cat": "Berühmte Pokemon"

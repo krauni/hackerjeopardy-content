@@ -2,9 +2,9 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T13:48:56.842Z",
-  "totalRounds": 5,
-  "totalSize": 84406,
+  "lastUpdated": "2025-12-19T14:04:06.232Z",
+  "totalRounds": 6,
+  "totalSize": 101971,
   "rounds": [
     {
       "id": "cybersecurity_basics",
@@ -61,6 +61,25 @@
       "tags": []
     },
     {
+      "id": "klassische_pokemon_stars",
+      "name": "Klassische Pokemon Stars",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "Starter-Sternchen",
+        "Legendäre Wesen",
+        "Familienbande",
+        "Typen-Titanen",
+        "Anime-Asse",
+        "Retro-Raritäten"
+      ],
+      "author": "Hacker Jeopardy Community",
+      "lastModified": "2025-12-19",
+      "size": 17277,
+      "description": "Unterhaltsame Fragen zu klassischen Pokemon der ersten Generation für deutsche Fans",
+      "tags": []
+    },
+    {
       "id": "pokemon_stars",
       "name": "Pokemon Stars",
       "language": "en",
@@ -75,7 +94,7 @@
       ],
       "author": "Hacker Jeopardy Community",
       "lastModified": "2025-12-19",
-      "size": 16897,
+      "size": 17185,
       "description": "Berühmte Pokemon als Popkultur-Ikonen und ihre kulturelle Bedeutung",
       "tags": []
     },

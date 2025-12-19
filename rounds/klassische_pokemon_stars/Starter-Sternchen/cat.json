@@ -1,0 +1,48 @@
+{
+  "name": "Starter-Sternchen",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "Dieses gras-typige Starter-Pokemon sieht aus wie eine Mischung aus Pflanze und Dinosaurier und ist das Maskottchen von Professor Eich",
+      "question": "Was ist Bisasam?",
+      "image": "bisasam-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Starter-Sternchen"
+    },
+    {
+      "answer": "Dieses feuer-typige Starter-Pokemon hat einen Flammen-Schwanz und entwickelt sich zu einem riesigen Drachen",
+      "question": "Was ist Glumanda?",
+      "image": "glumanda-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Starter-Sternchen"
+    },
+    {
+      "answer": "Dieses wasser-typige Starter-Pokemon ist eine kleine Schildkröte und wird zu einem mächtigen Wassermonster",
+      "question": "Was ist Schiggy?",
+      "image": "schiggy-300.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Starter-Sternchen"
+    },
+    {
+      "answer": "Diese finale Entwicklung eines Starter-Pokemon ist eine riesige Schildkröte mit Kanonen auf dem Rücken",
+      "question": "Was ist Turtok?",
+      "available": true,
+      "value": 400,
+      "cat": "Starter-Sternchen"
+    },
+    {
+      "answer": "Dieses Pokemon ist die finale Form eines Starter-Pokemon und sieht aus wie ein feuerspeiender Dinosaurier mit Flügeln",
+      "question": "Was ist Glurak?",
+      "image": "glurak-500.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Starter-Sternchen"
+    }
+  ]
+}

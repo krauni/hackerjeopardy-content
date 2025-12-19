@@ -1,0 +1,47 @@
+{
+  "name": "Anime-Asse",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon begleitet Ash in der Anime-Serie und ist gelb mit roten Backen",
+      "question": "Was ist Pikachu?",
+      "image": "pikachu-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Anime-Asse"
+    },
+    {
+      "answer": "Dieses Pokemon ist Ashs Starter und entwickelt sich zu einem riesigen Drachen",
+      "question": "Was ist Glurak?",
+      "image": "glurak-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Anime-Asse"
+    },
+    {
+      "answer": "Dieses Pokemon ist ein sprechendes rosa Katz-Wesen aus dem Anime",
+      "question": "Was ist Mew?",
+      "available": true,
+      "value": 300,
+      "cat": "Anime-Asse"
+    },
+    {
+      "answer": "Dieses Pokemon ist ein genetisches Experiment und Ashs stärkster Gegner",
+      "question": "Was ist Mewtu?",
+      "image": "mewtu-400.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Anime-Asse"
+    },
+    {
+      "answer": "Dieses Pokemon ist ein legendärer Vogel und kann den Frühling bringen",
+      "question": "Was ist Zapdos?",
+      "available": true,
+      "value": 500,
+      "cat": "Anime-Asse"
+    }
+  ]
+}

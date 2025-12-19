@@ -1,0 +1,46 @@
+{
+  "name": "Typen-Titanen",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "Dieses Elektro-Pokemon ist eine Qualle und kann Stromstöße abgeben",
+      "question": "Was ist Quabbel?",
+      "available": true,
+      "value": 100,
+      "cat": "Typen-Titanen"
+    },
+    {
+      "answer": "Dieses Feuer-Pokemon sieht aus wie ein Salamander und spuckt Feuer",
+      "question": "Was ist Feurio?",
+      "image": "feurio-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Typen-Titanen"
+    },
+    {
+      "answer": "Dieses Psycho-Pokemon ist ein kleines rosa Wesen mit großen Ohren",
+      "question": "Was ist Abra?",
+      "available": true,
+      "value": 300,
+      "cat": "Typen-Titanen"
+    },
+    {
+      "answer": "Dieses Gestein-Pokemon sieht aus wie ein Felsen mit Augen und Armen",
+      "question": "Was ist Kleinstein?",
+      "available": true,
+      "value": 400,
+      "cat": "Typen-Titanen"
+    },
+    {
+      "answer": "Dieses Drache-Pokemon ist ein legendäres Wesen und kann alle Typen annehmen",
+      "question": "Was ist Mew?",
+      "image": "mew-500.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Typen-Titanen"
+    }
+  ]
+}

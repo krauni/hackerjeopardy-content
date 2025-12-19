@@ -1,0 +1,47 @@
+{
+  "name": "Legendäre Wesen",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "Dieses legendäre Pokemon ist ein rosa Katz-Wesen und kann jede Attacke erlernen",
+      "question": "Was ist Mew?",
+      "image": "mew-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Legendäre Wesen"
+    },
+    {
+      "answer": "Dieses legendäre Pokemon ist eine genetisch erschaffene Kopie von Mew und hat psychische Kräfte",
+      "question": "Was ist Mewtu?",
+      "image": "mewtu-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Legendäre Wesen"
+    },
+    {
+      "answer": "Dieser legendäre Vogel-Pokemon repräsentiert das Eis und kann ewigen Winter bringen",
+      "question": "Was ist Arktos?",
+      "available": true,
+      "value": 300,
+      "cat": "Legendäre Wesen"
+    },
+    {
+      "answer": "Dieser legendäre Vogel-Pokemon repräsentiert das Feuer und kann ewigen Sommer bringen",
+      "question": "Was ist Lavados?",
+      "available": true,
+      "value": 400,
+      "cat": "Legendäre Wesen"
+    },
+    {
+      "answer": "Dieser legendäre Vogel-Pokemon repräsentiert den Blitz und kann ewigen Frühling bringen",
+      "question": "Was ist Zapdos?",
+      "image": "zapdos-500.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Legendäre Wesen"
+    }
+  ]
+}
