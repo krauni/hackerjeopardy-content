@@ -1,4 +1,4 @@
-# Contributing to Hacker Jeopardy Content
+git pus# Contributing to Hacker Jeopardy Content
 
 Welcome! We're excited that you want to contribute question sets to Hacker Jeopardy. This guide will help you create and submit new rounds.
 

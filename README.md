@@ -17,9 +17,10 @@ A community-driven repository for Hacker Jeopardy question sets. This repository
 ### For Contributors
 
 1. [Read the contribution guide](docs/CONTRIBUTING.md)
-2. Fork this repository
-3. Add your question set following the format
-4. Submit a Pull Request
+2. Use the [CLI Creator Tool](#cli-creator-tool) for easy content creation
+3. Fork this repository
+4. Add your question set following the format
+5. Submit a Pull Request
 
 ## 📁 Repository Structure
 
@@ -76,6 +77,32 @@ We welcome contributions from the community! Whether you're a cybersecurity expe
 ### Agent Instructions
 
 - [AGENTS.md](AGENTS.md) - Instructions for AI coding assistants working in this repository
+
+### CLI Creator Tool
+
+A powerful command-line tool for creating Jeopardy content:
+
+```bash
+# Install dependencies
+npm install
+
+# Link the CLI tool
+npm link
+
+# Create a new round
+hackerjeopardy-creator create-round --template cybersecurity_basics
+
+# Add questions to a category
+hackerjeopardy-creator add-questions cybersecurity_basics "Firewall Follies"
+
+# Validate your content
+hackerjeopardy-creator validate cybersecurity_basics
+
+# Get AI-powered question suggestions (requires local LLM)
+hackerjeopardy-creator suggest-questions --category "Password Party" --difficulty 200
+```
+
+[Full CLI documentation](hackerjeopardy-creator/README.md)
 
 ### Validation
 

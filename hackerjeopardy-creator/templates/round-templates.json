@@ -1,0 +1,67 @@
+{
+  "cybersecurity_basics": {
+    "name": "Cybersecurity Basics",
+    "description": "Introduction to fundamental cybersecurity concepts",
+    "author": "Hacker Jeopardy Community",
+    "categories": [
+      "Firewall Follies",
+      "Password Party",
+      "Phishing Fiasco",
+      "Encryption Extravaganza",
+      "Web Weirdness",
+      "Hackers Hall of Fame"
+    ]
+  },
+  "programming_fundamentals": {
+    "name": "Programming Fundamentals",
+    "description": "Core programming concepts and techniques",
+    "author": "Hacker Jeopardy Community",
+    "categories": [
+      "Code Catastrophes",
+      "Algorithm Adventures",
+      "Data Structure Disco",
+      "Language Labyrinth",
+      "Debugging Drama",
+      "Logic Land"
+    ]
+  },
+  "tech_history": {
+    "name": "Tech History Highlights",
+    "description": "Important moments and figures in technology history",
+    "author": "Hacker Jeopardy Community",
+    "categories": [
+      "Computer Chronicles",
+      "Internet Icons",
+      "Software Saga",
+      "Hardware Heroes",
+      "Digital Discoveries",
+      "Innovation Station"
+    ]
+  },
+  "internet_culture": {
+    "name": "Internet Culture Phenomena",
+    "description": "Memes, trends, and cultural moments from the internet",
+    "author": "Hacker Jeopardy Community",
+    "categories": [
+      "Meme Museum",
+      "Viral Ventures",
+      "Social Shenanigans",
+      "Emoji Empire",
+      "Hashtag Havoc",
+      "Trend Tornado"
+    ]
+  },
+  "system_administration": {
+    "name": "System Administration Essentials",
+    "description": "Server management, networking, and infrastructure concepts",
+    "author": "Hacker Jeopardy Community",
+    "categories": [
+      "Server Symphony",
+      "Network Nirvana",
+      "Command Line Circus",
+      "Backup Ballet",
+      "Security Sentinel",
+      "Cloud Carnival"
+    ]
+  }
+}
