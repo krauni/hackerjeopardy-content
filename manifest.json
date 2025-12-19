@@ -49,11 +49,7 @@
       "name": "Demo Round",
       "language": "en",
       "difficulty": "mixed",
-      "categories": [
-        "Programming",
-        "Security",
-        "Fun"
-      ],
+      "categories": ["Programming", "Security", "Fun"],
       "author": "Hacker Jeopardy Team",
       "lastModified": "2025-12-19",
       "size": 7908,
@@ -61,8 +57,8 @@
       "tags": []
     },
     {
-      "id": "klassische_pokemon_stars",
-      "name": "Klassische Pokemon Stars",
+      "id": "pkmn_klassische_stars",
+      "name": "Pkmn Klassische Stars",
       "language": "en",
       "difficulty": "mixed",
       "categories": [
@@ -80,8 +76,8 @@
       "tags": []
     },
     {
-      "id": "pokemon_expert_herausforderungen",
-      "name": "Pokemon Expert Herausforderungen",
+      "id": "pkmn_expert_herausforderungen",
+      "name": "Pkmn Expert Herausforderungen",
       "language": "de",
       "difficulty": "mixed",
       "categories": [
@@ -99,8 +95,8 @@
       "tags": []
     },
     {
-      "id": "pokemon_gemischt_herausforderungen",
-      "name": "Pokemon Gemischt Herausforderungen",
+      "id": "pkmn_gemischt_herausforderungen",
+      "name": "Pkmn Gemischt Herausforderungen",
       "language": "de",
       "difficulty": "mixed",
       "categories": [
@@ -118,8 +114,8 @@
       "tags": []
     },
     {
-      "id": "pokemon_meister_herausforderungen",
-      "name": "Pokemon Meister Herausforderungen",
+      "id": "pkmn_meister_herausforderungen",
+      "name": "Pkmn Meister Herausforderungen",
       "language": "de",
       "difficulty": "mixed",
       "categories": [
@@ -137,8 +133,8 @@
       "tags": []
     },
     {
-      "id": "pokemon_stars",
-      "name": "Pokemon Stars",
+      "id": "pkmn_stars",
+      "name": "Pkmn Stars",
       "language": "en",
       "difficulty": "mixed",
       "categories": [
