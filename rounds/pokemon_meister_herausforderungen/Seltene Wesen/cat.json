@@ -1,0 +1,45 @@
+{
+  "name": "Seltene Wesen",
+  "difficulty": "master",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon wurde von einem Wissenschaftler aus alten Fossilien wiedererschaffen und kann verschiedene Drives tragen",
+      "question": "Was ist Genesect?",
+      "available": true,
+      "value": 100,
+      "cat": "Seltene Wesen"
+    },
+    {
+      "question": "Was ist Diancie?",
+      "image": "Diancie-silhouette-distorted-400.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Seltene Wesen"
+    },
+    {
+      "answer": "Dieses Pokemon ist eine Mischung aus Vulkan und Dampfmaschine und kann sowohl Feuer als auch Wasser kontrollieren",
+      "question": "Was ist Volcanion?",
+      "available": true,
+      "value": 300,
+      "cat": "Seltene Wesen"
+    },
+    {
+      "question": "Was ist Meltan?",
+      "image": "Meltan-wave-charcoal-blur-sepia-modulate-500.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Seltene Wesen"
+    },
+    {
+      "answer": "Dieses Pokemon ist das einzige seiner Art und kann nicht durch normale Zucht vermehrt werden",
+      "question": "Was ist Mew?",
+      "available": true,
+      "value": 500,
+      "cat": "Seltene Wesen"
+    }
+  ]
+}

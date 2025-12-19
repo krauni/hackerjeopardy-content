@@ -1,0 +1,45 @@
+{
+  "name": "Legendäre Meister",
+  "difficulty": "master",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses psychische Pokemon wurde durch menschliche Genmanipulation erschaffen und ist das Ergebnis eines gescheiterten Experiments",
+      "question": "Was ist Mewtu?",
+      "available": true,
+      "value": 100,
+      "cat": "Legendäre Meister"
+    },
+    {
+      "question": "Was ist Lugia?",
+      "image": "Lugia-silhouette-extreme-200.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Legendäre Meister"
+    },
+    {
+      "answer": "Dieses Pokemon kontrolliert die Zeit und steht im ewigen Konflikt mit seinem Raum-kontrollierenden Gegenstück",
+      "question": "Was ist Dialga?",
+      "available": true,
+      "value": 300,
+      "cat": "Legendäre Meister"
+    },
+    {
+      "question": "Was ist Rayquaza?",
+      "image": "Rayquaza-swirl-implode-blur-paint-modulate-500.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Legendäre Meister"
+    },
+    {
+      "answer": "Dieses Pokemon ist der Schöpfer aller Arten und kann jede Typenkombination annehmen, die es gibt",
+      "question": "Was ist Arceus?",
+      "available": true,
+      "value": 500,
+      "cat": "Legendäre Meister"
+    }
+  ]
+}

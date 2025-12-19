@@ -2,9 +2,9 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T19:01:05.137Z",
-  "totalRounds": 8,
-  "totalSize": 15646419,
+  "lastUpdated": "2025-12-19T19:08:29.426Z",
+  "totalRounds": 9,
+  "totalSize": 27728554,
   "rounds": [
     {
       "id": "cybersecurity_basics",
@@ -115,6 +115,25 @@
       "lastModified": "2025-12-19",
       "size": 4450171,
       "description": "Gemischt visuell/textuelle Herausforderungen mit Pokemon aus allen Generationen",
+      "tags": []
+    },
+    {
+      "id": "pokemon_meister_herausforderungen",
+      "name": "Pokemon Meister Herausforderungen",
+      "language": "de",
+      "difficulty": "mixed",
+      "categories": [
+        "Legendäre Meister",
+        "Mythische Meister",
+        "Starter-Legenden",
+        "Mächtige Formen",
+        "Seltene Wesen",
+        "Wächter der Balance"
+      ],
+      "author": "Hacker Jeopardy Community",
+      "lastModified": "2025-12-19",
+      "size": 12082135,
+      "description": "Extrem anspruchsvolle Herausforderungen für Pokemon-Meister mit den komplexesten visuellen Filtern",
       "tags": []
     },
     {

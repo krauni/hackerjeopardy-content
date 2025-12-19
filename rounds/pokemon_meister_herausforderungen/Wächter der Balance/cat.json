@@ -1,0 +1,45 @@
+{
+  "name": "Wächter der Balance",
+  "difficulty": "master",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses Pokemon kontrolliert die Zeit und ist Teil der Schöpfungstriade aus Sinnoh",
+      "question": "Was ist Dialga?",
+      "available": true,
+      "value": 100,
+      "cat": "Wächter der Balance"
+    },
+    {
+      "answer": "Dieses Pokemon kontrolliert den Raum und ist Teil der Schöpfungstriade aus Sinnoh",
+      "question": "Was ist Palkia?",
+      "available": true,
+      "value": 200,
+      "cat": "Wächter der Balance"
+    },
+    {
+      "answer": "Dieses Pokemon existiert in zwei Formen und repräsentiert die Antithese zur Schöpfung",
+      "question": "Was ist Giratina?",
+      "available": true,
+      "value": 300,
+      "cat": "Wächter der Balance"
+    },
+    {
+      "question": "Was ist Reshiram?",
+      "image": "Reshiram-charcoal-implode-blur-sepia-modulate-500.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Wächter der Balance"
+    },
+    {
+      "answer": "Dieses Pokemon kontrolliert die Zerstörung und ist Teil der taoistischen Legenden aus Unova",
+      "question": "Was ist Yveltal?",
+      "available": true,
+      "value": 500,
+      "cat": "Wächter der Balance"
+    }
+  ]
+}

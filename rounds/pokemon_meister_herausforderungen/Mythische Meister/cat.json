@@ -1,0 +1,45 @@
+{
+  "name": "Mythische Meister",
+  "difficulty": "master",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "question": "Was ist Mew?",
+      "image": "Mew-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Mythische Meister"
+    },
+    {
+      "answer": "Dieses Pokemon kann durch die Zeit reisen und sieht aus wie ein grüner Elf mit Antennen",
+      "question": "Was ist Celebi?",
+      "available": true,
+      "value": 200,
+      "cat": "Mythische Meister"
+    },
+    {
+      "question": "Was ist Jirachi?",
+      "image": "Jirachi-wave-charcoal-blur-sepia-modulate-500.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Mythische Meister"
+    },
+    {
+      "answer": "Dieses Pokemon kommt aus dem Weltall und kann seine Form verändern, um verschiedene Angriffe zu optimieren",
+      "question": "Was ist Deoxys?",
+      "available": true,
+      "value": 400,
+      "cat": "Mythische Meister"
+    },
+    {
+      "question": "Was ist Arceus?",
+      "image": "Arceus-charcoal-implode-blur-sepia-modulate-500.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Mythische Meister"
+    }
+  ]
+}

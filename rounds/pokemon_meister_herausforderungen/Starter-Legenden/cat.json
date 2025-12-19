@@ -1,0 +1,45 @@
+{
+  "name": "Starter-Legenden",
+  "difficulty": "master",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "answer": "Dieses Elektro-Pokemon ist das berühmteste aller Pokemon und hat rote Wangen, die wie Blitzableiter wirken",
+      "question": "Was ist Pikachu?",
+      "available": true,
+      "value": 100,
+      "cat": "Starter-Legenden"
+    },
+    {
+      "question": "Was ist Evoli?",
+      "image": "Evoli-silhouette-fragmented-300.jpg",
+      "available": true,
+      "value": 200,
+      "cat": "Starter-Legenden"
+    },
+    {
+      "answer": "Dieses Pflanzen-Pokemon aus der fünften Generation ist ein Starter und entwickelt sich zu einem eleganten Ritter",
+      "question": "Was ist Snivy?",
+      "available": true,
+      "value": 300,
+      "cat": "Starter-Legenden"
+    },
+    {
+      "question": "Was ist Rowlet?",
+      "image": "Rowlet-implode-blur-sepia-modulate-300.jpg",
+      "available": true,
+      "value": 400,
+      "cat": "Starter-Legenden"
+    },
+    {
+      "answer": "Dieses Feuer-Pokemon aus der siebten Generation ist ein Starter und sieht aus wie eine kleine Katze",
+      "question": "Was ist Litten?",
+      "available": true,
+      "value": 500,
+      "cat": "Starter-Legenden"
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "pikachu": {
+    "english": "Pikachu",
+    "german": "Pikachu",
+    "generation": 1,
+    "types": ["Electric"],
+    "evolution_stage": "middle",
+    "rarity": "legendary",
+    "special_forms": ["Partner Pikachu", "Pikachu Libre", "Detective Pikachu"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    }
+  },
+  "eevee": {
+    "english": "Eevee",
+    "german": "Evoli",
+    "generation": 1,
+    "types": ["Normal"],
+    "evolution_stage": "baby",
+    "rarity": "legendary",
+    "special_forms": ["Partner Eevee"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+    }
+  },
+  "mewtwo": {
+    "english": "Mewtwo",
+    "german": "Mewtu",
+    "generation": 1,
+    "types": ["Psychic"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Mega Mewtwo X", "Mega Mewtwo Y", "Armored Mewtwo"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+    }
+  },
+  "lugia": {
+    "english": "Lugia",
+    "german": "Lugia",
+    "generation": 2,
+    "types": ["Psychic", "Flying"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Shadow Lugia"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png"
+    }
+  },
+  "ho_oh": {
+    "english": "Ho-Oh",
+    "german": "Ho-Oh",
+    "generation": 2,
+    "types": ["Fire", "Flying"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png"
+    }
+  },
+  "rayquaza": {
+    "english": "Rayquaza",
+    "german": "Rayquaza",
+    "generation": 3,
+    "types": ["Dragon", "Flying"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Mega Rayquaza"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png"
+    }
+  },
+  "jirachi": {
+    "english": "Jirachi",
+    "german": "Jirachi",
+    "generation": 3,
+    "types": ["Steel", "Psychic"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/385.png"
+    }
+  },
+  "deoxys": {
+    "english": "Deoxys",
+    "german": "Deoxys",
+    "generation": 3,
+    "types": ["Psychic"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "special_forms": ["Attack Forme", "Defense Forme", "Speed Forme"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/386.png"
+    }
+  },
+  "darkrai": {
+    "english": "Darkrai",
+    "german": "Darkrai",
+    "generation": 4,
+    "types": ["Dark"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png"
+    }
+  },
+  "shaymin": {
+    "english": "Shaymin",
+    "german": "Shaymin",
+    "generation": 4,
+    "types": ["Grass"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "special_forms": ["Sky Forme", "Land Forme"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/492.png"
+    }
+  },
+  "giratina": {
+    "english": "Giratina",
+    "german": "Giratina",
+    "generation": 4,
+    "types": ["Ghost", "Dragon"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Altered Forme", "Origin Forme"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png"
+    }
+  },
+  "snivy": {
+    "english": "Snivy",
+    "german": "Snivy",
+    "generation": 5,
+    "types": ["Grass"],
+    "evolution_stage": "baby",
+    "rarity": "legendary",
+    "special_forms": ["Ash's Snivy"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/495.png"
+    }
+  },
+  "oshawott": {
+    "english": "Oshawott",
+    "german": "Oshawott",
+    "generation": 5,
+    "types": ["Water"],
+    "evolution_stage": "baby",
+    "rarity": "legendary",
+    "special_forms": ["Ash's Oshawott"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/501.png"
+    }
+  },
+  "tepig": {
+    "english": "Tepig",
+    "german": "Chimchar",
+    "generation": 5,
+    "types": ["Fire"],
+    "evolution_stage": "baby",
+    "rarity": "legendary",
+    "special_forms": ["Ash's Tepig"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/498.png"
+    }
+  },
+  "reshiram": {
+    "english": "Reshiram",
+    "german": "Reshiram",
+    "generation": 5,
+    "types": ["Dragon", "Fire"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/643.png"
+    }
+  },
+  "zekrom": {
+    "english": "Zekrom",
+    "german": "Zekrom",
+    "generation": 5,
+    "types": ["Dragon", "Electric"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png"
+    }
+  },
+  "kyurem": {
+    "english": "Kyurem",
+    "german": "Kyurem",
+    "generation": 5,
+    "types": ["Dragon", "Ice"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["White Kyurem", "Black Kyurem"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/646.png"
+    }
+  },
+  "genesect": {
+    "english": "Genesect",
+    "german": "Genesect",
+    "generation": 5,
+    "types": ["Bug", "Steel"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "special_forms": [
+      "Shock Drive",
+      "Burn Drive",
+      "Chill Drive",
+      "Douse Drive"
+    ],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/649.png"
+    }
+  },
+  "xerneas": {
+    "english": "Xerneas",
+    "german": "Xerneas",
+    "generation": 6,
+    "types": ["Fairy"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Active Mode", "Neutral Mode"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png"
+    }
+  },
+  "yveltal": {
+    "english": "Yveltal",
+    "german": "Yveltal",
+    "generation": 6,
+    "types": ["Dark", "Flying"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/717.png"
+    }
+  },
+  "zygarde": {
+    "english": "Zygarde",
+    "german": "Zygarde",
+    "generation": 6,
+    "types": ["Dragon", "Ground"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["10% Forme", "50% Forme", "Complete Forme"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png"
+    }
+  },
+  "diancie": {
+    "english": "Diancie",
+    "german": "Diancie",
+    "generation": 6,
+    "types": ["Rock", "Fairy"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "special_forms": ["Mega Diancie"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/719.png"
+    }
+  },
+  "volcanion": {
+    "english": "Volcanion",
+    "german": "Volcanion",
+    "generation": 6,
+    "types": ["Fire", "Water"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/721.png"
+    }
+  },
+  "rowlet": {
+    "english": "Rowlet",
+    "german": "Rowlet",
+    "generation": 7,
+    "types": ["Grass", "Flying"],
+    "evolution_stage": "baby",
+    "rarity": "legendary",
+    "special_forms": ["Ash's Rowlet"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/722.png"
+    }
+  },
+  "litten": {
+    "english": "Litten",
+    "german": "Litten",
+    "generation": 7,
+    "types": ["Fire"],
+    "evolution_stage": "baby",
+    "rarity": "legendary",
+    "special_forms": ["Ash's Litten"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/725.png"
+    }
+  },
+  "popplio": {
+    "english": "Popplio",
+    "german": "Popplio",
+    "generation": 7,
+    "types": ["Water"],
+    "evolution_stage": "baby",
+    "rarity": "legendary",
+    "special_forms": ["Ash's Popplio"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/728.png"
+    }
+  },
+  "lunala": {
+    "english": "Lunala",
+    "german": "Lunala",
+    "generation": 7,
+    "types": ["Psychic", "Ghost"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/792.png"
+    }
+  },
+  "solgaleo": {
+    "english": "Solgaleo",
+    "german": "Solgaleo",
+    "generation": 7,
+    "types": ["Psychic", "Steel"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png"
+    }
+  },
+  "necrozma": {
+    "english": "Necrozma",
+    "german": "Necrozma",
+    "generation": 7,
+    "types": ["Psychic"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Dusk Mane", "Dawn Wings", "Ultra"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png"
+    }
+  },
+  "meltan": {
+    "english": "Meltan",
+    "german": "Meltan",
+    "generation": 7,
+    "types": ["Steel"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/808.png"
+    }
+  },
+  "groudon": {
+    "english": "Groudon",
+    "german": "Groudon",
+    "generation": 3,
+    "types": ["Ground"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Primal Groudon"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png"
+    }
+  },
+  "kyogre": {
+    "english": "Kyogre",
+    "german": "Kyogre",
+    "generation": 3,
+    "types": ["Water"],
+    "evolution_stage": "legendary",
+    "rarity": "legendary",
+    "special_forms": ["Primal Kyogre"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/382.png"
+    }
+  },
+  "mew": {
+    "english": "Mew",
+    "german": "Mew",
+    "generation": 1,
+    "types": ["Psychic"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png"
+    }
+  },
+  "celebi": {
+    "english": "Celebi",
+    "german": "Celebi",
+    "generation": 2,
+    "types": ["Psychic", "Grass"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png"
+    }
+  },
+  "arceus": {
+    "english": "Arceus",
+    "german": "Arceus",
+    "generation": 4,
+    "types": ["Normal"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "special_forms": ["All 17 type forms"],
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png"
+    }
+  },
+  "phione": {
+    "english": "Phione",
+    "german": "Phione",
+    "generation": 4,
+    "types": ["Water"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/489.png"
+    }
+  },
+  "manaphy": {
+    "english": "Manaphy",
+    "german": "Manaphy",
+    "generation": 4,
+    "types": ["Water"],
+    "evolution_stage": "mythical",
+    "rarity": "mythical",
+    "image_sources": {
+      "pokemon_com": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/490.png"
+    }
+  }
+}

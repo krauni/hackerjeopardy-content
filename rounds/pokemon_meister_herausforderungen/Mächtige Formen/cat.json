@@ -1,0 +1,45 @@
+{
+  "name": "Mächtige Formen",
+  "difficulty": "master",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "lang": "de",
+  "questions": [
+    {
+      "question": "Was ist Giratina?",
+      "image": "Giratina-100.jpg",
+      "available": true,
+      "value": 100,
+      "cat": "Mächtige Formen"
+    },
+    {
+      "answer": "Dieses Pokemon symbolisiert Yang und kontrolliert die Wahrheit, es ist das Gegenstück zu Zekrom",
+      "question": "Was ist Reshiram?",
+      "available": true,
+      "value": 200,
+      "cat": "Mächtige Formen"
+    },
+    {
+      "question": "Was ist Kyurem?",
+      "image": "Kyurem-edge-blur-sepia-modulate-invert-500.jpg",
+      "available": true,
+      "value": 300,
+      "cat": "Mächtige Formen"
+    },
+    {
+      "answer": "Dieses Pokemon kontrolliert das Leben und erscheint nur einmal alle 1000 Jahre in voller Pracht",
+      "question": "Was ist Xerneas?",
+      "available": true,
+      "value": 400,
+      "cat": "Mächtige Formen"
+    },
+    {
+      "question": "Was ist Necrozma?",
+      "image": "Necrozma-swirl-implode-blur-paint-modulate-500.jpg",
+      "available": true,
+      "value": 500,
+      "cat": "Mächtige Formen"
+    }
+  ]
+}
