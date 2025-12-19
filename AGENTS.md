@@ -67,5 +67,15 @@
 
 - Use fun, thematic names instead of standard technical terms
 - Examples: "Firewall Follies", "Code Catastrophes", "Phishing Fiasco"
-- Employ alliteration and memorable themes</content>
+- Employ alliteration and memorable themes
+
+### Entertainment-Focused Rounds
+
+For non-educational rounds prioritizing fun and entertainment:
+
+- **Focus**: Pop culture, memes, gaming, internet trends, humor
+- **Guidelines**: See "Creating Entertainment-Focused Rounds" in CONTRIBUTING.md
+- **Themes**: Internet culture, gaming fails, viral moments, nostalgia, industry drama
+- **Quality**: Shareability and engagement over technical accuracy
+- **Examples**: Meme Museum, Boss Battle Blunders, Hashtag Havoc, Retro Gaming Relics</content>
   <parameter name="filePath">/home/user/dev/hackerjeopardy-content/AGENTS.md
