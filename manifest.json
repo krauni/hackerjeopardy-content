@@ -2,9 +2,9 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T14:04:06.232Z",
+  "lastUpdated": "2025-12-19T16:22:33.852Z",
   "totalRounds": 6,
-  "totalSize": 101971,
+  "totalSize": 511715,
   "rounds": [
     {
       "id": "cybersecurity_basics",
@@ -49,11 +49,7 @@
       "name": "Demo Round",
       "language": "en",
       "difficulty": "mixed",
-      "categories": [
-        "Programming",
-        "Security",
-        "Fun"
-      ],
+      "categories": ["Programming", "Security", "Fun"],
       "author": "Hacker Jeopardy Team",
       "lastModified": "2025-12-19",
       "size": 7908,
@@ -75,7 +71,7 @@
       ],
       "author": "Hacker Jeopardy Community",
       "lastModified": "2025-12-19",
-      "size": 17277,
+      "size": 396310,
       "description": "Unterhaltsame Fragen zu klassischen Pokemon der ersten Generation für deutsche Fans",
       "tags": []
     },
@@ -94,7 +90,7 @@
       ],
       "author": "Hacker Jeopardy Community",
       "lastModified": "2025-12-19",
-      "size": 17185,
+      "size": 47896,
       "description": "Berühmte Pokemon als Popkultur-Ikonen und ihre kulturelle Bedeutung",
       "tags": []
     },
