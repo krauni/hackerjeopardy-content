@@ -1,0 +1,44 @@
+{
+  "name": "Machine Learning Madness",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "question": "What is Supervised Learning?",
+      "answer": "This type of learning involves training a model on labeled data.",
+      "available": true,
+      "value": 100,
+      "cat": "Machine Learning Madness"
+    },
+    {
+      "question": "What is Reinforcement Learning?",
+      "answer": "This type of learning involves an agent learning through rewards and penalties.",
+      "available": true,
+      "value": 200,
+      "cat": "Machine Learning Madness"
+    },
+    {
+      "question": "What is Regularization?",
+      "answer": "This technique prevents overfitting by adding a penalty term to the loss function.",
+      "available": true,
+      "value": 300,
+      "cat": "Machine Learning Madness"
+    },
+    {
+      "question": "What is TensorFlow?",
+      "answer": "This popular library for machine learning in Python was developed by Google.",
+      "available": true,
+      "value": 400,
+      "cat": "Machine Learning Madness"
+    },
+    {
+      "question": "What is the Universal Approximation Theorem?",
+      "answer": "This theorem states that a sufficiently large neural network can approximate any continuous function.",
+      "available": true,
+      "value": 500,
+      "cat": "Machine Learning Madness"
+    }
+  ]
+}

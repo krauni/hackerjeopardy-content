@@ -1,0 +1,44 @@
+{
+  "name": "Neural Network Nonsense",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "question": "What is a Neuron (or Perceptron)?",
+      "answer": "The basic unit of a neural network, inspired by the human brain.",
+      "available": true,
+      "value": 100,
+      "cat": "Neural Network Nonsense"
+    },
+    {
+      "question": "What is an Activation Function?",
+      "answer": "The function applied to the output of a neuron to introduce non-linearity.",
+      "available": true,
+      "value": 200,
+      "cat": "Neural Network Nonsense"
+    },
+    {
+      "question": "What is Backpropagation?",
+      "answer": "The process of updating weights in a neural network by propagating the error backwards.",
+      "available": true,
+      "value": 300,
+      "cat": "Neural Network Nonsense"
+    },
+    {
+      "question": "What is a Convolutional Neural Network (CNN)?",
+      "answer": "A type of neural network particularly effective for image recognition.",
+      "available": true,
+      "value": 400,
+      "cat": "Neural Network Nonsense"
+    },
+    {
+      "question": "What is a Recurrent Neural Network (RNN)?",
+      "answer": "A type of neural network designed for sequence data, having 'memory'.",
+      "available": true,
+      "value": 500,
+      "cat": "Neural Network Nonsense"
+    }
+  ]
+}

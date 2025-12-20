@@ -1,0 +1,44 @@
+{
+  "name": "Visionary Vision",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "question": "What is Computer Vision?",
+      "answer": "This field of AI enables computers to interpret and understand the visual world.",
+      "available": true,
+      "value": 100,
+      "cat": "Visionary Vision"
+    },
+    {
+      "question": "What is ImageNet?",
+      "answer": "This massive dataset of labeled images is famous for its use in training image recognition models.",
+      "available": true,
+      "value": 200,
+      "cat": "Visionary Vision"
+    },
+    {
+      "question": "What are Generative Adversarial Networks (GANs)?",
+      "answer": "This technology allows AI to generate new images from text descriptions or other images.",
+      "available": true,
+      "value": 300,
+      "cat": "Visionary Vision"
+    },
+    {
+      "question": "What is Object Detection?",
+      "answer": "This task involves detecting and locating objects within an image.",
+      "available": true,
+      "value": 400,
+      "cat": "Visionary Vision"
+    },
+    {
+      "question": "What is Facial Recognition?",
+      "answer": "This challenge involves identifying specific individuals in images or video.",
+      "available": true,
+      "value": 500,
+      "cat": "Visionary Vision"
+    }
+  ]
+}

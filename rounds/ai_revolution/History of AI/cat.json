@@ -1,0 +1,44 @@
+{
+  "name": "History of AI",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "question": "Who is Alan Turing?",
+      "answer": "He is considered the father of theoretical computer science and AI.",
+      "available": true,
+      "value": 100,
+      "cat": "History of AI"
+    },
+    {
+      "question": "What is the Dartmouth Conference?",
+      "answer": "The term 'Artificial Intelligence' was coined at this conference in 1956.",
+      "available": true,
+      "value": 200,
+      "cat": "History of AI"
+    },
+    {
+      "question": "Who is Deep Blue?",
+      "answer": "This chess computer defeated World Champion Garry Kasparov in 1997.",
+      "available": true,
+      "value": 300,
+      "cat": "History of AI"
+    },
+    {
+      "question": "What is AlphaGo?",
+      "answer": "This AI system by DeepMind mastered the game of Go.",
+      "available": true,
+      "value": 400,
+      "cat": "History of AI"
+    },
+    {
+      "question": "What is an AI Winter?",
+      "answer": "This period of reduced funding and interest in AI occurred several times in history.",
+      "available": true,
+      "value": 500,
+      "cat": "History of AI"
+    }
+  ]
+}

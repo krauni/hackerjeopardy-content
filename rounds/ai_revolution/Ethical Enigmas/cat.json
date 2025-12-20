@@ -1,0 +1,44 @@
+{
+  "name": "Ethical Enigmas",
+  "difficulty": "mixed",
+  "author": "Hacker Jeopardy Community",
+  "licence": "MIT",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "question": "What is Algorithmic Bias?",
+      "answer": "This term refers to prejudice in the results produced by an AI model.",
+      "available": true,
+      "value": 100,
+      "cat": "Ethical Enigmas"
+    },
+    {
+      "question": "What is the Trolley Problem?",
+      "answer": "This problem involves an autonomous vehicle deciding between two harmful outcomes.",
+      "available": true,
+      "value": 200,
+      "cat": "Ethical Enigmas"
+    },
+    {
+      "question": "What is the Alignment Problem?",
+      "answer": "The fear that superintelligent AI might not have goals aligned with human values.",
+      "available": true,
+      "value": 300,
+      "cat": "Ethical Enigmas"
+    },
+    {
+      "question": "What is Misinformation (or Deepfakes)?",
+      "answer": "Deepfakes raise concerns about this concept, the ability to trust what we see and hear.",
+      "available": true,
+      "value": 400,
+      "cat": "Ethical Enigmas"
+    },
+    {
+      "question": "What is the EU AI Act?",
+      "answer": "This EU regulation is the first comprehensive AI law.",
+      "available": true,
+      "value": 500,
+      "cat": "Ethical Enigmas"
+    }
+  ]
+}
