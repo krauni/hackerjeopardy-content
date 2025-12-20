@@ -25,8 +25,7 @@
       "question": "What is The Matrix?",
       "available": true,
       "value": 300,
-      "cat": "Movie Mayhem",
-      "image": "matrix-scene.jpg"
+      "cat": "Movie Mayhem"
     }
   ]
 }
