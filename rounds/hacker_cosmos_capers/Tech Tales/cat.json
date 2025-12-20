@@ -1,0 +1,25 @@
+{
+  "name": "Tech Tales",
+  "lang": "en",
+  "difficulty": "mixed",
+  "author": "User",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "The first computer 'bug' was actually this flying insect stuck in a machine",
+      "question": "What is a moth?",
+      "available": true,
+      "value": 100,
+      "cat": "Tech Tales",
+      "image": "computer-bug.jpg"
+    },
+    {
+      "answer": "This virus locked computers and demanded money, hitting hospitals and businesses",
+      "question": "What is WannaCry?",
+      "available": true,
+      "value": 300,
+      "cat": "Tech Tales",
+      "image": "wannacry.jpg"
+    }
+  ]
+}

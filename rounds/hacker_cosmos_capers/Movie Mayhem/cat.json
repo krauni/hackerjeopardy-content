@@ -1,0 +1,32 @@
+{
+  "name": "Movie Mayhem",
+  "lang": "en",
+  "difficulty": "mixed",
+  "author": "User",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "This classic movie shows a kid accidentally starting World War III with a computer game",
+      "question": "What is WarGames?",
+      "available": true,
+      "value": 100,
+      "cat": "Movie Mayhem"
+    },
+    {
+      "answer": "This classic movie shows a kid accidentally starting World War III with a computer game",
+      "question": "What is WarGames?",
+      "available": true,
+      "value": 100,
+      "cat": "Movie Mayhem",
+      "image": "wargames-poster.jpg"
+    },
+    {
+      "answer": "In this sci-fi hit, humans are batteries for machines in a fake reality",
+      "question": "What is The Matrix?",
+      "available": true,
+      "value": 300,
+      "cat": "Movie Mayhem",
+      "image": "matrix-scene.jpg"
+    }
+  ]
+}

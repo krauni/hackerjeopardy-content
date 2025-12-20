@@ -1,0 +1,25 @@
+{
+  "name": "Hacker Hijinks",
+  "lang": "en",
+  "difficulty": "mixed",
+  "author": "User",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "This old-school hacking tricked phone systems into making free calls",
+      "question": "What is phreaking?",
+      "available": true,
+      "value": 100,
+      "cat": "Hacker Hijinks",
+      "image": "phreaking.jpg"
+    },
+    {
+      "answer": "This 1988 computer bug spread like a virus and slowed down the early internet",
+      "question": "What is the Morris Worm?",
+      "available": true,
+      "value": 300,
+      "cat": "Hacker Hijinks",
+      "image": "morris-worm.jpg"
+    }
+  ]
+}

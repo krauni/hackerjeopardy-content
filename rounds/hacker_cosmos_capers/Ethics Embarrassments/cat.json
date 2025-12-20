@@ -1,0 +1,25 @@
+{
+  "name": "Ethics Embarrassments",
+  "lang": "en",
+  "difficulty": "mixed",
+  "author": "User",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "This right means companies shouldn't share your personal info without asking",
+      "question": "What is data privacy?",
+      "available": true,
+      "value": 100,
+      "cat": "Ethics Embarrassments",
+      "image": "data-privacy.jpg"
+    },
+    {
+      "answer": "This worry is about making robots smarter than humans and what they might do",
+      "question": "What is the AI alignment problem?",
+      "available": true,
+      "value": 300,
+      "cat": "Ethics Embarrassments",
+      "image": "ai-alignment.jpg"
+    }
+  ]
+}

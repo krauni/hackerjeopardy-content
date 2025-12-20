@@ -1,0 +1,46 @@
+{
+  "name": "Philosophy Flops",
+  "lang": "en",
+  "difficulty": "mixed",
+  "author": "User",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "This test checks if a computer can think and talk just like a human",
+      "question": "What is the Turing Test?",
+      "available": true,
+      "value": 100,
+      "cat": "Philosophy Flops",
+      "image": "turing-test.jpg"
+    },
+    {
+      "answer": "This fun question wonders if our whole world might just be a computer game",
+      "question": "What is the simulation hypothesis?",
+      "available": true,
+      "value": 200,
+      "cat": "Philosophy Flops",
+      "image": "simulation-hypothesis.jpg"
+    },
+    {
+      "answer": "This idea warns that super-smart robots might take over the world",
+      "question": "What is the technological singularity?",
+      "available": true,
+      "value": 300,
+      "cat": "Philosophy Flops"
+    },
+    {
+      "answer": "This way of thinking says 'the ends justify the means' for ethical decisions",
+      "question": "What is utilitarianism?",
+      "available": true,
+      "value": 400,
+      "cat": "Philosophy Flops"
+    },
+    {
+      "answer": "This old riddle asks why a perfect god allows evil and suffering",
+      "question": "What is the problem of evil?",
+      "available": true,
+      "value": 500,
+      "cat": "Philosophy Flops"
+    }
+  ]
+}

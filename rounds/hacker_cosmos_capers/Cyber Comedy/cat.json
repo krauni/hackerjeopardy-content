@@ -1,0 +1,25 @@
+{
+  "name": "Cyber Comedy",
+  "lang": "en",
+  "difficulty": "mixed",
+  "author": "User",
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "answer": "When a computer follows instructions perfectly but does something silly",
+      "question": "What is literal interpretation?",
+      "available": true,
+      "value": 100,
+      "cat": "Cyber Comedy",
+      "image": "literal-interpretation.jpg"
+    },
+    {
+      "answer": "On Jan 1, 2000, some computers thought it was 1900 and freaked out",
+      "question": "What is the Y2K bug?",
+      "available": true,
+      "value": 500,
+      "cat": "Cyber Comedy",
+      "image": "y2k-bug.jpg"
+    }
+  ]
+}
