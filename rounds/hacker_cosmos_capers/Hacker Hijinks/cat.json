@@ -6,7 +6,7 @@
   "date": "2025-12-20",
   "questions": [
     {
-      "answer": "This old-school hacking tricked phone systems into making free calls",
+      "answer": "",
       "question": "What is phreaking?",
       "available": true,
       "value": 100,
@@ -14,7 +14,7 @@
       "image": "phreaking.jpg"
     },
     {
-      "answer": "This 1988 computer bug spread like a virus and slowed down the early internet",
+      "answer": "",
       "question": "What is the Morris Worm?",
       "available": true,
       "value": 300,

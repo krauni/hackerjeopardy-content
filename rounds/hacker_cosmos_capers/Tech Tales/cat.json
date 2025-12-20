@@ -6,7 +6,7 @@
   "date": "2025-12-20",
   "questions": [
     {
-      "answer": "The first computer 'bug' was actually this flying insect stuck in a machine",
+      "answer": "",
       "question": "What is a moth?",
       "available": true,
       "value": 100,
@@ -14,7 +14,7 @@
       "image": "computer-bug.jpg"
     },
     {
-      "answer": "This virus locked computers and demanded money, hitting hospitals and businesses",
+      "answer": "",
       "question": "What is WannaCry?",
       "available": true,
       "value": 300,
