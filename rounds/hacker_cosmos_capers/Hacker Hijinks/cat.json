@@ -14,12 +14,33 @@
       "image": "phreaking.jpg"
     },
     {
+      "answer": "This famous hacker wrote about curiosity and the joy of exploring systems",
+      "question": "Who is The Mentor?",
+      "available": true,
+      "value": 200,
+      "cat": "Hacker Hijinks"
+    },
+    {
       "answer": "",
       "question": "What is the Morris Worm?",
       "available": true,
       "value": 300,
       "cat": "Hacker Hijinks",
       "image": "morris-worm.jpg"
+    },
+    {
+      "answer": "This German hacker group exposed flaws in voting machines and ID cards",
+      "question": "What is the Chaos Computer Club?",
+      "available": true,
+      "value": 400,
+      "cat": "Hacker Hijinks"
+    },
+    {
+      "answer": "This famous hacker conference features talks, workshops, and contests every summer",
+      "question": "What is DEF CON?",
+      "available": true,
+      "value": 500,
+      "cat": "Hacker Hijinks"
     }
   ]
 }
