@@ -2,10 +2,28 @@
   "name": "Hacker Jeopardy Content Repository",
   "description": "Community-contributed question sets for Hacker Jeopardy",
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T19:08:29.426Z",
-  "totalRounds": 9,
-  "totalSize": 27728554,
+  "lastUpdated": "2025-12-20T20:22:36.490Z",
+  "totalRounds": 11,
+  "totalSize": 34132672,
   "rounds": [
+    {
+      "id": "ai_gone_wrong",
+      "name": "AI Gone Wrong",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "AI Gone Wrong Origins",
+        "AI Gone Wrong Culture",
+        "AI Gone Wrong Impact",
+        "AI Gone Wrong Evolution",
+        "AI Gone Wrong Types"
+      ],
+      "author": "AI Generator v2.0",
+      "lastModified": "2025-12-20",
+      "size": 5567,
+      "description": "AI-generated round using Wikipedia Definition strategy with quality enhancements",
+      "tags": []
+    },
     {
       "id": "cybersecurity_basics",
       "name": "Cybersecurity Basics",
@@ -20,7 +38,7 @@
         "Hackers Hall of Fame"
       ],
       "author": "Nils",
-      "lastModified": "2025-12-19",
+      "lastModified": "2025-12-20",
       "size": 19452,
       "description": "Introduction to fundamental cybersecurity concepts",
       "tags": []
@@ -39,7 +57,7 @@
         "Hackers Hall of Fame"
       ],
       "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-19",
+      "lastModified": "2025-12-20",
       "size": 19631,
       "description": "A hilarious journey through cybersecurity basics with puns and practical tips",
       "tags": []
@@ -49,30 +67,34 @@
       "name": "Demo Round",
       "language": "en",
       "difficulty": "mixed",
-      "categories": ["Programming", "Security", "Fun"],
+      "categories": [
+        "Programming",
+        "Security",
+        "Fun"
+      ],
       "author": "Hacker Jeopardy Team",
-      "lastModified": "2025-12-19",
+      "lastModified": "2025-12-20",
       "size": 7908,
       "description": "A demonstration round showing the content structure",
       "tags": []
     },
     {
-      "id": "pkmn_klassische_stars",
-      "name": "Pkmn Klassische Stars",
+      "id": "hacker_cosmos_capers",
+      "name": "Hacker Cosmos Capers",
       "language": "en",
       "difficulty": "mixed",
       "categories": [
-        "Starter-Sternchen",
-        "Legendäre Wesen",
-        "Familienbande",
-        "Typen-Titanen",
-        "Anime-Asse",
-        "Retro-Raritäten"
+        "Philosophy Flops",
+        "Hacker Hijinks",
+        "Movie Mayhem",
+        "Tech Tales",
+        "Ethics Embarrassments",
+        "Cyber Comedy"
       ],
-      "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-19",
-      "size": 392242,
-      "description": "Unterhaltsame Fragen zu klassischen Pokemon der ersten Generation für deutsche Fans",
+      "author": "User",
+      "lastModified": "2025-12-20",
+      "size": 6398566,
+      "description": "A lighthearted exploration of philosophy, hacker culture, movies, tech mishaps, ethical dilemmas, and cyber humor",
       "tags": []
     },
     {
@@ -89,8 +111,8 @@
         "Typ Titanen"
       ],
       "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-19",
-      "size": 10688601,
+      "lastModified": "2025-12-20",
+      "size": 10688598,
       "description": "Höchst anspruchsvolle visuelle und textuelle Herausforderungen für Pokemon-Experten mit komplexen Filtern",
       "tags": []
     },
@@ -108,9 +130,28 @@
         "Starter-Team"
       ],
       "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-19",
-      "size": 4450171,
+      "lastModified": "2025-12-20",
+      "size": 4450168,
       "description": "Gemischt visuell/textuelle Herausforderungen mit Pokemon aus allen Generationen",
+      "tags": []
+    },
+    {
+      "id": "pkmn_klassische_stars",
+      "name": "Pkmn Klassische Stars",
+      "language": "en",
+      "difficulty": "mixed",
+      "categories": [
+        "Starter-Sternchen",
+        "Legendäre Wesen",
+        "Familienbande",
+        "Typen-Titanen",
+        "Anime-Asse",
+        "Retro-Raritäten"
+      ],
+      "author": "Hacker Jeopardy Community",
+      "lastModified": "2025-12-20",
+      "size": 392239,
+      "description": "Unterhaltsame Fragen zu klassischen Pokemon der ersten Generation für deutsche Fans",
       "tags": []
     },
     {
@@ -127,8 +168,8 @@
         "Wächter der Balance"
       ],
       "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-19",
-      "size": 12082135,
+      "lastModified": "2025-12-20",
+      "size": 12082132,
       "description": "Extrem anspruchsvolle Herausforderungen für Pokemon-Meister mit den komplexesten visuellen Filtern",
       "tags": []
     },
@@ -146,8 +187,8 @@
         "Weltrekorde"
       ],
       "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-19",
-      "size": 47896,
+      "lastModified": "2025-12-20",
+      "size": 47893,
       "description": "Berühmte Pokemon als Popkultur-Ikonen und ihre kulturelle Bedeutung",
       "tags": []
     },
@@ -165,7 +206,7 @@
         "Network Nightmares"
       ],
       "author": "Hacker Jeopardy Community",
-      "lastModified": "2025-12-19",
+      "lastModified": "2025-12-20",
       "size": 20518,
       "description": "Exploring hypothetical technology scenarios and alternate digital realities",
       "tags": []
